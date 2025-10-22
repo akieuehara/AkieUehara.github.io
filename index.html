@@ -1,41 +1,123 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UTF-8">
-<title>あなたのＨＰタイトル</title>
-<meta name="keywords" content="ページのキーワードA,B,C">
-<meta name="description" content="ページの説明">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="index.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>上原 明恵 | Akie Uehara</title>
+  <meta name="description" content="電力システム・再生可能エネルギーを専門とする研究者の紹介ページ。研究概要、論文、プロジェクト、授業、連絡先など。" />
+  <link rel="stylesheet" href="index.css">
+  <style>
+    body { color: #333; background: #fff; }
+    .container { width: 694px; margin: 0 auto; padding: 20px; }
+    h1 span.muted { color: #777; font-size: 0.9em; }
+    .nav { margin-top: 10px; margin-bottom: 20px; }
+    .nav a { margin-right: 15px; color: #214555; text-decoration: none; }
+    .nav a:hover { text-decoration: underline; }
+    section { margin-bottom: 40px; }
+    .pill { display: inline-block; background: #214555; color: #fff; font-size: 12px; border-radius: 20px; padding: 4px 10px; margin: 2px; }
+    .sidebar { background: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; padding: 10px 15px; margin-top: 20px; }
+    .sidebar h3 { margin-top: 0; }
+    .avatar { width: 100px; height: 100px; border-radius: 50%; display: block; margin: 0 auto; }
+    footer { text-align: center; font-size: 14px; color: #777; margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px; }
+  </style>
 </head>
 <body>
-<div id="outer">
-<header><div id="header-container"><div id="head-inner"><h1>あなたのＨＰタイトル</h1>
-<p class="description">あなたのＨＰの説明文</p></div></div>
-</header>
-<div id="content-wrapper">
-<main>
-<div id="inner">
-<h2>記事ページ見出し・大</h2>
-<p>文章あれこれ</p>
-<h3>記事ページ見出し・中</h3>
-<p>文章あれこれ</p>
-<h4>記事ページ見出し・小</h4>
-<p>文章あれこれ</p>
-</div>
-</main>
-<aside>
-<div id="middle-inner">
-<div class="side-title">menu</div>
-<div class="side">
-<ul>
-<li>記事ページへのリンク</li>
-<li>記事ページへのリンク</li>
-</ul>
-</div>
-</div>
-</aside>
-</div>
-<footer>© 2010 あなたのホームページ</footer>
-</div></body>
+  <header id="header-container">
+    <div id="head-inner">
+      <h1>上原 明恵 <span class="muted">| Akie Uehara</span></h1>
+      <p class="description">再生可能エネルギー，電力系統工学</p>
+      <nav class="nav">
+        <a href="#about">概要</a>
+        <a href="#news">ニュース</a>
+        <a href="#publications">論文</a>
+        <a href="#projects">プロジェクト</a>
+        <a href="#teaching">授業</a>
+        <a href="#service">学会活動</a>
+        <a href="#contact">連絡先</a>
+      </nav>
+    </div>
+  </header>
+
+  <div id="content-wrapper" class="container">
+    <main id="inner">
+      <section id="about">
+        <h2>研究概要</h2>
+        <p>沖縄をはじめとする独立系統を対象に、<strong>系統制約付き発電機起動停止計画（SCUC）</strong>、<strong>再エネ・蓄電池統合</strong>、<strong>周波数・電圧安定度</strong>を考慮した運用計画を研究しています。また、<strong>GFMインバータの電圧維持特性</strong>や、<strong>AI-OCRによる会計自動化</strong>など、エネルギー×AIの横断研究にも取り組んでいます。</p>
+        <div>
+          <span class="pill">SCUC / UC / MPC</span>
+          <span class="pill">Renewables & BESS</span>
+          <span class="pill">GFM Inverter</span>
+          <span class="pill">DLR / 状態推定</span>
+          <span class="pill">AI-OCR</span>
+        </div>
+      </section>
+
+      <section id="news">
+        <h2>ニュース</h2>
+        <ul>
+          <li>2025-10-21　GitHub Pagesで個人サイトを公開しました。</li>
+          <li>2025-09-30　研究費申請のための一般管理費ルール解説ノートを公開。</li>
+          <li>2025-08-08　風力発電MPPT×強化学習のコードを整理。</li>
+        </ul>
+      </section>
+
+      <section id="publications">
+        <h2>主要論文 / Preprints</h2>
+        <ul>
+          <li><strong>Security-Constrained Unit Commitment with Generator Site-Diversification for Isolated Grids</strong><br> A. Uehara, et al., IEEE (example). <a href="#">PDF</a> | <a href="#">Code</a></li>
+          <li><strong>Dynamic Line Rating with UKF-based State Estimation</strong><br> A. Uehara, et al., IEEJ (example). <a href="#">PDF</a> | <a href="#">Slides</a></li>
+        </ul>
+      </section>
+
+      <section id="projects">
+        <h2>プロジェクト</h2>
+        <ul>
+          <li><strong>DLR × 状態推定：</strong> 伝導体温度・風速のUKF推定と潮流制約の同定。</li>
+          <li><strong>GFMインバータの電圧維持：</strong> 同期電源との比較、短絡容量低下下での挙動評価。</li>
+          <li><strong>AI-OCR × 会計：</strong> TF‑IDF＋ロジスティック回帰による費目分類の実装と評価。</li>
+        </ul>
+      </section>
+
+      <section id="teaching">
+        <h2>授業</h2>
+        <ul>
+          <li>電力システム工学 / 再生可能エネルギー工学</li>
+          <li>最適化工学（MILP, Pyomo, MATLAB intlinprog）</li>
+          <li>制御工学（MPC, 強化学習の基礎）</li>
+        </ul>
+      </section>
+
+      <section id="service">
+        <h2>学会・コミュニティ活動</h2>
+        <ul>
+          <li>IEEE PES, IAS, IES 会員</li>
+          <li>査読：TSTE, TSG, IEEJ など（例）</li>
+        </ul>
+      </section>
+
+      <section id="contact">
+        <h2>連絡先</h2>
+        <p>〒903-0213 沖縄県中頭郡西原町字千原1（琉球大学 工学部）<br>
+        E-mail: <a href="mailto:your.name@example.ac.jp">your.name@example.ac.jp</a></p>
+      </section>
+
+      <div class="sidebar">
+        <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="avatar" class="avatar">
+        <h3>研究分野</h3>
+        <p><span class="pill">系統計画</span> <span class="pill">周波数安定度</span> <span class="pill">電圧安定度</span> <span class="pill">最適化</span> <span class="pill">強化学習</span></p>
+        <h3>リンク</h3>
+        <ul>
+          <li><a href="https://scholar.google.com/">Google Scholar</a></li>
+          <li><a href="https://orcid.org/">ORCID</a></li>
+          <li><a href="https://github.com/">GitHub</a></li>
+        </ul>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    © <span id="y"></span> Akie Uehara. Built with GitHub Pages.
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
 </html>
