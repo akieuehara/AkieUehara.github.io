@@ -172,10 +172,11 @@ h4 {
 }
 .nav a {
   margin-right: 15px;
-  color: #214555;
+  color: #f3e6d2;   /* ヘッダー見出しと同じ明るい色 */
   text-decoration: none;
   font-weight: bold;
 }
 .nav a:hover {
   text-decoration: underline;
+  color: #e8f3f9;   /* ホバー時はさらに明るく */
 }
