@@ -10,7 +10,7 @@ body {
 #content-wrapper {
   margin: 0 auto;
   max-width: 1000px;  /* 最大1000pxまで広がる */
-  width: 90%;         /* 画面に応じて柔軟に */
+  width: 100%;         /* 画面に応じて柔軟に */
 }
 header {
 	background-color: #214555;
