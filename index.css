@@ -9,7 +9,7 @@ body {
 #header-container,
 #content-wrapper {
   margin: 0 auto;
-  max-width: 1100px;  /* 最大1000pxまで広がる */
+  max-width: 1000px;  /* 最大1000pxまで広がる */
   width: 90%;         /* 画面に応じて柔軟に */
 }
 header {
@@ -48,7 +48,7 @@ h2 {
 
 #content-wrapper {
   margin: 0 auto;
-  max-width: 1100px;  /* 最大幅を拡張 */
+  max-width: 1000px;  /* 最大幅を拡張 */
   width: 90%;         /* 画面サイズに応じて可変 */
 }
 
@@ -130,7 +130,7 @@ blockquote {
 	padding: 5px;
 	margin: 10px;
 }
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
 #header-container {
     margin: 0;
 	width: 100%;
