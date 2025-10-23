@@ -6,12 +6,35 @@ body {
 	line-height: 1.6;
     font-size: 16px;
 }
+
+/* 共通レイアウト：左右の余白も統一。両者を必ず同じにする */
 #header-container,
 #content-wrapper {
   margin: 0 auto;
-  max-width: 1000px;  /* 最大1000pxまで広がる */
-  width: 90%;         /* 画面に応じて柔軟に */
+  max-width: 1000px;        /* PC上限 */
+  width: 100%;              /* ベースは100% */
+  padding: 0 16px;          /* 左右の余白を統一 */
+  box-sizing: border-box;   /* 余白込み幅で計算 */
 }
+
+/* ナビは折り返し可能に */
+.nav {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;                /* 均等な間隔 */
+}
+.nav a { font-weight: bold; text-decoration: none; }
+
+/* モバイル調整 */
+@media screen and (max-width: 768px) {
+  #head-inner { padding: 20px 0; }
+  #inner      { padding: 20px 0 0; }
+  h1 { font-size: 22px; }
+  .nav a { font-size: 14px; line-height: 1.8; }
+}
+
 header {
 	background-color: #214555;
 }
@@ -124,21 +147,7 @@ blockquote {
 	padding: 5px;
 	margin: 10px;
 }
-@media screen and (max-width: 1000px) {
-#header-container {
-    margin: 0;
-	width: 90%;
-}
 
-.avatar{
-  width: 200px;         /* 好みで 160〜220px くらい */
-  aspect-ratio: 1 / 1;  /* 正方形にする（heightは指定しない）*/
-  border-radius: 50%;
-  object-fit: cover;    /* 顔を中心にトリミングして潰れない */
-  display: block;
-  margin: 16px auto;
-  box-shadow: 0 3px 8px rgba(0,0,0,.2);
-}
 
 #head-inner {
     padding: 25px 10px;
@@ -146,9 +155,6 @@ blockquote {
 }
 .description {
 }
-#content-wrapper {
-margin: 0;
-	width: 100%;}
 main {
 width: 100%;
 	color: #333;
