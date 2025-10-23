@@ -129,9 +129,17 @@ blockquote {
     margin: 0;
 	width: 90%;
 }
-header {
 
+.avatar {
+  width: 180px;           /* 写真の幅（お好みで調整） */
+  height: 180px;          /* 高さ（縦横同じで円形に） */
+  border-radius: 50%;     /* 角を丸めて円形に */
+  object-fit: cover;      /* 顔を中央でトリミング */
+  display: block;
+  margin: 20px auto;      /* 中央揃えと余白 */
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); /* ふんわり影を追加 */
 }
+
 #head-inner {
     padding: 25px 10px;
 	background-color: #214555;
