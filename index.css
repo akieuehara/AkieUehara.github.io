@@ -130,14 +130,14 @@ blockquote {
 	width: 90%;
 }
 
-.avatar {
-  width: 180px;           /* 写真の幅（お好みで調整） */
-  height: 180px;          /* 高さ（縦横同じで円形に） */
-  border-radius: 50%;     /* 角を丸めて円形に */
-  object-fit: cover;      /* 顔を中央でトリミング */
+.avatar{
+  width: 200px;         /* 好みで 160〜220px くらい */
+  aspect-ratio: 1 / 1;  /* 正方形にする（heightは指定しない）*/
+  border-radius: 50%;
+  object-fit: cover;    /* 顔を中心にトリミングして潰れない */
   display: block;
-  margin: 20px auto;      /* 中央揃えと余白 */
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); /* ふんわり影を追加 */
+  margin: 16px auto;
+  box-shadow: 0 3px 8px rgba(0,0,0,.2);
 }
 
 #head-inner {
