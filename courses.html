@@ -5,15 +5,15 @@
   <title>授業一覧 | Akie Uehara</title>
   <link rel="stylesheet" href="index.css">
   <style>
-    body { background: #fff; color: #333; font-family: "メイリオ", Meiryo, sans-serif; }
+    body { background: #fff; color: #333; font-family: "メイリオ", Meiryo, sans-serif; line-height: 1.7; }
     h1 { color: #214555; border-bottom: 2px solid #214555; padding-bottom: 6px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 14px; }
-    th, td { border: 1px solid #ccc; padding: 6px 10px; vertical-align: top; }
-    th { background: #f3f3f3; text-align: left; }
-    tr:nth-child(even) { background: #fafafa; }
-    a { color: #214555; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    footer { text-align: center; margin-top: 40px; color: #777; font-size: 13px; }
+    h2 { color: #214555; margin-top: 30px; border-left: 4px solid #214555; padding-left: 10px; }
+    section { margin-top: 25px; }
+    .course-item { margin-bottom: 18px; }
+    .course-title { font-weight: bold; color: #214555; }
+    .course-info { font-size: 13px; color: #555; margin-bottom: 4px; }
+    footer { text-align: center; margin-top: 50px; color: #777; font-size: 13px; }
+    hr { border: 0; border-top: 1px solid #ddd; margin: 18px 0; }
   </style>
 </head>
 <body>
@@ -22,86 +22,52 @@
     <p>（更新日：2025年10月）</p>
 
     <h2>学部授業 / Undergraduate Courses</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>No.</th><th>科目名</th><th>対象学科</th><th>学期</th><th>概要</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>1</td>
-          <td>電力システム工学</td>
-          <td>電気電子工学科</td>
-          <td>前期</td>
-          <td>電力系統の構成、潮流解析、短絡電流計算、電圧・周波数制御などの基礎理論を学ぶ。</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>再生可能エネルギー工学</td>
-          <td>電気電子工学科</td>
-          <td>後期</td>
-          <td>太陽光・風力・蓄電池・水素などの再エネ技術と、それらの電力系統への導入課題について学ぶ。</td>
-        </tr>
-        <tr>
-          <td>3</td>
-          <td>エネルギーマネジメント演習</td>
-          <td>工学部共通</td>
-          <td>通年</td>
-          <td>島嶼マイクログリッドを題材に、需給解析・最適化・需給予測などの実践的課題を扱う。</td>
-        </tr>
-      </tbody>
-    </table>
+    <section>
+      <div class="course-item">
+        <div class="course-title">電力工学実験</div>
+        <div class="course-info">対象：4年次 ／ 開講：前期</div>
+        <p>担当テーマ：No.5 モータ制御 ~三相PWMインバータによる電動機駆動~，No.7 三相同期電動機の始動法，No.8 三相同期発電機の並行運転，No.10 e-Learning (研究倫理)</p>
+      </div>
+      <hr>
+      <div class="course-item">
+        <div class="course-title">電気電子基礎実験</div>
+        <div class="course-info">対象：2年次 ／ 開講：後期</div>
+        <p>担当テーマ：No.3 単相交流量の測定，No.4 三相交流量の測定</p>
+      </div>
+      
+    </section>
 
-    <p></p>
-
+    <!--　2026年度から
     <h2>大学院授業 / Graduate Courses</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>No.</th><th>科目名</th><th>学期</th><th>概要</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>1</td>
-          <td>スマートエネルギーシステム特論</td>
-          <td>後期</td>
-          <td>分散エネルギーリソース、マイクログリッド、最適化、レジリエンス設計などの先端研究テーマを扱う。</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>エネルギー統合マネジメント論</td>
-          <td>前期</td>
-          <td>電力・熱・水素・交通エネルギーの統合マネジメントと、AI・最適化手法による解析を学ぶ。</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <p></p>
+    <section>
+      <div class="course-item">
+        <div class="course-title">スマートエネルギーシステム特論</div>
+        <div class="course-info">開講：後期</div>
+        <p>分散エネルギーリソース、マイクログリッド、最適化、レジリエンス設計など、先端的エネルギー技術を取り上げる。</p>
+      </div>
+      <hr>
+      <div class="course-item">
+        <div class="course-title">エネルギー統合マネジメント論</div>
+        <div class="course-info">開講：前期</div>
+        <p>電力・熱・水素・交通エネルギーを統合的に扱い、AI・最適化手法を活用したエネルギーマネジメントを学ぶ。</p>
+      </div>
+    </section>
+    -->
 
     <h2>ゼミ・研究指導 / Seminars and Supervision</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>No.</th><th>区分</th><th>対象</th><th>概要</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>1</td>
-          <td>卒業研究</td>
-          <td>学部4年生</td>
-          <td>再エネ・電力系統・蓄電池・最適化・強化学習などのテーマに基づく実践研究。</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>修士研究</td>
-          <td>大学院生</td>
-          <td>レジリエントな電力需給計画、DLR、RoCoF制御、強化学習制御などの独自研究テーマ。</td>
-        </tr>
-      </tbody>
-    </table>
+    <section>
+      <div class="course-item">
+        <div class="course-title">卒業研究</div>
+        <p>電力系統に関するテーマ（再エネ電源，系統安定化，最適化等）を扱う。</p>
+      </div>
+      <hr>
+      <!-- 2026年度から
+      <div class="course-item">
+        <div class="course-title">修士研究</div>
+        <p>レジリエントな電力需給計画、動的線路定格（DLR）、RoCoF制御、強化学習制御などの最先端研究テーマに取り組む。</p>
+      </div>
+      -->
+    </section>
 
     <footer>
       <p>© 2025 Akie Uehara Laboratory</p>
