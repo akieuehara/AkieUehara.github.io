@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>授業（Courses） - Akie Uehara Lab</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <header>
+    <div id="header-container">
+      <div id="head-inner">
+        <h1><a href="index.html">Akie Uehara Laboratory</a></h1>
+        <p class="description">University of the Ryukyus / Power & Energy Systems</p>
+        <nav class="nav">
+          <a href="index.html">Home</a>
+          <a href="publications.html">Publications</a>
+          <a href="courses.html">Courses</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <div id="content-wrapper">
+    <main id="inner">
+      <h2>授業 / Courses</h2>
+      <p>このページでは、担当している授業および関連資料を紹介します。</p>
+
+      <h3>学部授業</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>科目名</th><th>対象学科</th><th>学期</th><th>概要</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>電力システム工学</td><td>電気電子工学科</td><td>前期</td>
+            <td>電力系統の構成、潮流解析、周波数制御、電圧制御などの基礎理論を学びます。</td>
+          </tr>
+          <tr>
+            <td>再生可能エネルギー工学</td><td>電気電子工学科</td><td>後期</td>
+            <td>太陽光・風力・蓄電池などの再エネ技術と電力システムへの導入手法について学びます。</td>
+          </tr>
+          <tr>
+            <td>エネルギーマネジメント演習</td><td>工学部共通</td><td>通年</td>
+            <td>島嶼系統を題材とした需給解析、負荷予測、最適化演習を行います。</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>大学院授業</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>科目名</th><th>学期</th><th>概要</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>スマートエネルギーシステム特論</td><td>後期</td>
+            <td>分散エネルギーリソース（DER）、マイクログリッド、需給最適化、レジリエンス設計などの最新研究を扱います。</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>その他</h3>
+      <p>ゼミ、卒業研究、修士研究においても、再エネ・電力系統・最適化・強化学習などのテーマを扱っています。</p>
+    </main>
+  </div>
+
+  <footer>
+    <p>© 2025 Akie Uehara Laboratory</p>
+  </footer>
+</body>
+</html>
