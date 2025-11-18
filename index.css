@@ -212,3 +212,49 @@ h4 {
   display: flex;
   flex-direction: column;   /* リンクを縦並びに */
 }
+
+
+/* 左固定サイドバー設定 */
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 100vh;
+  background-color: #214555;
+  color: #fff;
+  padding: 20px 15px;
+  overflow-y: auto;
+}
+
+#sidebar h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #f3e6d2;
+}
+
+#sidebar .description {
+  color: #eee;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+#sidebar .nav a {
+  display: block;
+  color: #f3e6d2;
+  text-decoration: none;
+  padding: 8px 0;
+  font-weight: bold;
+}
+
+#sidebar .nav a:hover {
+  color: #e8f3f9;
+  text-decoration: underline;
+}
+
+/* メインコンテンツをサイドバーの右にずらす */
+#content-wrapper {
+  margin-left: 250px;
+  padding: 20px;
+  max-width: 1100px;
+}
