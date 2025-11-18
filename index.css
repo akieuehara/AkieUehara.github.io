@@ -258,3 +258,80 @@ h4 {
   padding: 20px;
   max-width: 1100px;
 }
+
+/* -------------------------
+   PC では左サイドバー固定
+------------------------- */
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 100vh;
+  background: #214555;
+  color: #fff;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+#content-wrapper {
+  margin-left: 250px;
+}
+
+/* -------------------------
+   スマホ用折りたたみ
+------------------------- */
+@media (max-width: 768px) {
+
+  /* 左サイドバー → 上に移動 */
+  #sidebar {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0;
+  }
+
+  /* ハンバーガーヘッダ */
+  .mobile-header {
+    background: #214555;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+  }
+
+  #menu-btn {
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+  }
+
+  .mobile-title {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  /* 本来のサイドバー内容を隠す */
+  #sidebar-content {
+    display: none;
+    background: #214555;
+    padding: 15px;
+  }
+
+  /* 開いた時に表示 */
+  #sidebar-content.open {
+    display: block;
+  }
+
+  /* メインコンテンツは上部に余白が必要 */
+  #content-wrapper {
+    margin-left: 0;
+    margin-top: 70px; /* 固定ヘッダーの高さ */
+  }
+}
+
