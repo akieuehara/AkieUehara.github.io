@@ -471,3 +471,17 @@ footer {
   box-sizing: border-box;
 }
 
+#sidebar h1 {
+  position: relative; /* 擬似要素を h1 内に表示可能にする */
+  padding-bottom: 15px;
+}
+
+#sidebar h1::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 80%;              /* ← 線の長さを調整 */
+  height: 1px;
+  background-color: #ccc;
+}
