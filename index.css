@@ -403,70 +403,66 @@ h4 {
   }
 }
 
-/* ================================
-   PC（幅 801px 以上）
-   サイドバー固定 ＋ 本文を中央寄りに
-   ================================ */
-@media screen and (min-width: 801px) {
+/* =======================================================
+   PC：サイト中央寄せ + 中央寄りに固定されるサイドバー
+   ======================================================= */
+@media (min-width: 801px) {
 
-  /* サイドバー分だけ本文側に余白を取る */
-  body {
-    padding-left: 230px;   /* サイドバーと同じ幅にする */
+  /* ページ全体を中央に配置 */
+  .page-wrapper {
+    max-width: 1200px;        /* サイト全体の幅（調整可） */
+    margin: 0 auto;           /* 中央寄せ */
+    padding: 0 20px;
     box-sizing: border-box;
+    position: relative;       /* 子要素の基準にする */
   }
 
-  /* サイドバーは画面左に固定 */
+  /* サイドバーを page-wrapper 内で固定する */
   #sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 230px;
-    height: 100vh;
-    background-color: #214555;
-    color: #fff;
-    padding: 20px 15px;
+    position: fixed;          
+    top: 40px;                /* 上から少し余白 */
+    left: calc(50% - 600px + 20px); 
+    /* 
+      ＝ 画面中央(50%) − (全体幅1200px / 2) + 20px余白
+      → サイト中央ブロックの左端に配置される
+    */
+
+    width: 230px;             /* サイドバー幅 */
+    height: calc(100vh - 60px);
     overflow-y: auto;
+    padding: 20px 15px;
+    background: #214555;
+    color: #fff;
     box-sizing: border-box;
+    border-radius: 6px;
   }
 
-  /* 本文側を中央寄り＋最大幅制限 */
+  /* 本文部分の位置調整 */
   #content-wrapper {
-    margin: 0 auto;        /* 余白を均等にして中央寄せ */
-    max-width: 900px;      /* 本文の最大幅（お好みで調整可） */
-    padding: 20px 16px;
+    margin-left: 280px;       /* サイドバー幅 230px + 余白 */
+    padding-top: 40px;
+    max-width: 900px;
     box-sizing: border-box;
   }
 }
 
-/* ================================
-   スマホ（幅 800px 以下）
-   サイドバー非表示 ＋ 本文フル幅
-   ================================ */
-@media screen and (max-width: 800px) {
+/* =======================================================
+   スマホ：サイドバー非表示
+   ======================================================= */
+@media (max-width: 800px) {
 
-  /* サイドバーを消す */
   #sidebar {
     display: none;
   }
 
-  /* サイドバー用の余白をリセット */
-  body {
-    padding-left: 0;
-  }
-
-  /* 本文は画面いっぱい */
   .page-wrapper {
     max-width: 100%;
     margin: 0;
     padding: 0 12px;
-    box-sizing: border-box;
   }
 
   #content-wrapper {
-    margin: 0;
+    margin-left: 0;
     max-width: 100%;
-    padding: 16px 0 40px;
-    box-sizing: border-box;
   }
 }
-
