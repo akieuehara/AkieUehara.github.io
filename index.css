@@ -355,3 +355,25 @@ h4 {
   display: block;
 }
 
+@media screen and (min-width: 801px) {
+  #menu-btn {
+    display: none;    /* PCではボタン非表示 */
+  }
+  #sidebar-content {
+    display: block !important; /* 常に表示 */
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  #menu-btn {
+    display: block;   /* スマホで表示 */
+  }
+  #sidebar-content {
+    display: none;    /* 初期状態では隠す */
+  }
+  #sidebar-content.open {
+    display: block;   /* トグル時に表示 */
+  }
+}
+
