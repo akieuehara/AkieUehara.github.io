@@ -377,39 +377,7 @@ h4 {
   }
 }
 
-/* ================================
-   PCレイアウト：中央寄せ & 左にサイドバー
-   ================================ */
-@media screen and (min-width: 801px) {
 
-  /* サイドバー + メインを中央に配置する枠 */
-  .page-wrapper {
-    max-width: 1200px;        /* 全体の幅 */
-    margin: 0 auto;           /* 画面中央に配置 */
-    display: flex;
-    align-items: flex-start;
-    gap: 32px;                /* サイドバーと本文の間隔 */
-    padding: 20px 16px;
-    box-sizing: border-box;
-  }
-
-  /* サイドバーは左の固定ではなく、通常の左カラムに */
-  #sidebar {
-    position: static;         /* 既存の position:fixed を打ち消す */
-    width: 260px;
-    height: auto;
-    padding: 16px;
-    box-sizing: border-box;
-  }
-
-  /* メインコンテンツ側 */
-  #content-wrapper {
-    margin: 0;                /* 既存の margin-left:250px を打ち消す */
-    max-width: 900px;         /* 本文の最大幅 */
-    padding: 16px;
-    box-sizing: border-box;
-  }
-}
 
 /* ================================
    スマホレイアウト：サイドバー非表示
@@ -435,4 +403,70 @@ h4 {
   }
 }
 
+/* ================================
+   PC（幅 801px 以上）
+   サイドバー固定 ＋ 本文を中央寄りに
+   ================================ */
+@media screen and (min-width: 801px) {
+
+  /* サイドバー分だけ本文側に余白を取る */
+  body {
+    padding-left: 230px;   /* サイドバーと同じ幅にする */
+    box-sizing: border-box;
+  }
+
+  /* サイドバーは画面左に固定 */
+  #sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 230px;
+    height: 100vh;
+    background-color: #214555;
+    color: #fff;
+    padding: 20px 15px;
+    overflow-y: auto;
+    box-sizing: border-box;
+  }
+
+  /* 本文側を中央寄り＋最大幅制限 */
+  #content-wrapper {
+    margin: 0 auto;        /* 余白を均等にして中央寄せ */
+    max-width: 900px;      /* 本文の最大幅（お好みで調整可） */
+    padding: 20px 16px;
+    box-sizing: border-box;
+  }
+}
+
+/* ================================
+   スマホ（幅 800px 以下）
+   サイドバー非表示 ＋ 本文フル幅
+   ================================ */
+@media screen and (max-width: 800px) {
+
+  /* サイドバーを消す */
+  #sidebar {
+    display: none;
+  }
+
+  /* サイドバー用の余白をリセット */
+  body {
+    padding-left: 0;
+  }
+
+  /* 本文は画面いっぱい */
+  .page-wrapper {
+    max-width: 100%;
+    margin: 0;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  #content-wrapper {
+    margin: 0;
+    max-width: 100%;
+    padding: 16px 0 40px;
+    box-sizing: border-box;
+  }
+}
 
