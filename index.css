@@ -334,4 +334,8 @@ h4 {
     margin-top: 70px; /* 固定ヘッダーの高さ */
   }
 }
+.nav a {
+  display: block;     /* これで1つずつ改行される */
+  margin-bottom: 10px; /* 行間を追加 */
+}
 
