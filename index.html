@@ -94,14 +94,14 @@
       <section id="publications">
         <h2>出版物 / Publications</h2>
 
-          <ol class="pub-list">
+         <ol class="pub-list">
     <li class="pub-item">
       <div class="pub-title">
         A Coordinated Control Method to Smooth Wind Power Fluctuations of a PMSG-Based WECS
       </div>
       <div class="pub-meta">
         <span class="__dimensions_badge_embed__"
-              data-doi="https://doi.org/10.1109/TEC.2011.2107912"
+              data-doi="10.1109/TEC.2011.2107912"
               data-style="small_circle"
               data-hide-zero-citations="true"></span>
       </div>
@@ -109,18 +109,15 @@
 
     <li class="pub-item">
       <div class="pub-title">
-        A Frequency Control Method by Wind Farm & Battery using Load Estimation in Isolated Power System
+        A Frequency Control Method by Wind Farm &amp; Battery using Load Estimation in Isolated Power System
       </div>
       <div class="pub-meta">
         <span class="__dimensions_badge_embed__"
-              data-doi="https://www.degruyterbrill.com/document/doi/10.2202/1553-779X.2419/html"
+              data-doi="10.2202/1553-779X.2419"
               data-style="small_circle"
               data-hide-zero-citations="true"></span>
       </div>
     </li>
-
-    <!-- 必要なだけ li を追加 -->
-
   </ol>
 
         <!-- 追加：全件ページへのリンク -->
@@ -242,13 +239,32 @@
 
 <div id="pub-container"></div>
 
-  <!-- 既にある script の下でOK -->
+  <footer>
+    <div class="footer-inner">
+      © <span id="y"></span> Akie Uehara. Built with GitHub Pages.
+    </div>
+  </footer>
+
   <script>
-    document.getElementById('y').textContent = new Date().getFullYear();
-    // （他のJSがあればここに）
+    document.addEventListener("DOMContentLoaded", function() {
+      // 年号
+      var y = document.getElementById('y');
+      if (y) {
+        y.textContent = new Date().getFullYear();
+      }
+
+      // モバイル用メニュー
+      const btn = document.getElementById("menu-btn");
+      const menu = document.getElementById("sidebar-content");
+      if (btn && menu) {
+        btn.addEventListener("click", function() {
+          menu.classList.toggle("open");
+        });
+      }
+    });
   </script>
 
-  <!-- Dimensions のバッジ用スクリプト：1回だけ読み込めばOK -->
+  <!-- Dimensions のバッジ用スクリプト：1回だけでOK -->
   <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </body>
 </html>
