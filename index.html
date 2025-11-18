@@ -242,3 +242,13 @@
 
 <div id="pub-container"></div>
 
+  <!-- 既にある script の下でOK -->
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+    // （他のJSがあればここに）
+  </script>
+
+  <!-- Dimensions のバッジ用スクリプト：1回だけ読み込めばOK -->
+  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</body>
+</html>
