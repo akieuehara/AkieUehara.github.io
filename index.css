@@ -457,3 +457,14 @@ h4 {
     max-width: 100%;
   }
 }
+
+/* PC レイアウトの横線をサイト全体幅に合わせる */
+@media (min-width: 801px) {
+  hr {
+    width: calc(1200px - 40px); /* page-wrapper の max-width - padding分 */
+    margin: 20px auto;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+}
+
