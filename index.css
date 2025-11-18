@@ -195,3 +195,20 @@ h4 {
   text-decoration: underline;
   color: #e8f3f9;   /* ホバー時はさらに明るく */
 }
+
+.sidebar {
+  display: flex;         /* 横並びにする */
+  align-items: flex-start;
+  gap: 15px;             /* 写真とリンクの間隔 */
+}
+
+.sidebar .avatar {
+  width: 120px;          /* 必要ならサイズ調整 */
+  height: auto;
+  border-radius: 8px;
+}
+
+.sidebar .links-wrapper {
+  display: flex;
+  flex-direction: column;   /* リンクを縦並びに */
+}
