@@ -458,13 +458,16 @@ h4 {
   }
 }
 
-/* PC レイアウトの横線をサイト全体幅に合わせる */
-@media (min-width: 801px) {
-  hr {
-    width: calc(1200px - 40px); /* page-wrapper の max-width - padding分 */
-    margin: 20px auto;
-    border: none;
-    border-top: 1px solid #ccc;
-  }
+/* footer 全体には線をつけない */
+footer {
+  border-top: none !important;
+}
+/* サイト全体に合わせた幅の footer ライン */
+.footer-inner {
+  max-width: 1200px;       /* page-wrapper の max-width と同じ */
+  margin: 0 auto;          /* 中央寄せ */
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  box-sizing: border-box;
 }
 
