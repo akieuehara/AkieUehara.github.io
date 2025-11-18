@@ -81,11 +81,11 @@
   <div class="links-wrapper">
     <h3>リンク</h3>
     <ul>
-      <li><a href="https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/"target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
-      <li><a href="https://orcid.org/0009-0002-2724-3638"target="_blank" rel="noopener noreferrer">ORCID</a></li>
-      <li><a href="https://researchmap.jp/uehara_a"target="_blank" rel="noopener noreferrer">Researchmap</a></li>
-      <li><a href="https://www.researchgate.net/profile/Akie-Uehara/research"target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
-      <li><a href="https://www.scopus.com/authid/detail.uri?authorId=26423385600"target="_blank" rel="noopener noreferrer">Scopus</a></li>
+      <li><a href="https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+      <li><a href="https://orcid.org/0009-0002-2724-3638" target="_blank" rel="noopener noreferrer">ORCID</a></li>
+      <li><a href="https://researchmap.jp/uehara_a" target="_blank" rel="noopener noreferrer">Researchmap</a></li>
+      <li><a href="https://www.researchgate.net/profile/Akie-Uehara/research" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
+      <li><a href="https://www.scopus.com/authid/detail.uri?authorId=26423385600" target="_blank" rel="noopener noreferrer">Scopus</a></li>
     </ul>
   </div>
 </div>
@@ -95,7 +95,7 @@
         <h2>出版物 / Publications</h2>
         <!-- 追加：全件ページへのリンク -->
         <ul>
-        <p class="more"><a href="publications.html">→ 出版物一覧を見る</a></p>
+        <p class="more"><a href="publications.html" target="_blank" rel="noopener noreferrer">→ 出版物一覧を見る</a></p>
         </ul>
         </section>
 
@@ -103,7 +103,7 @@
         <h2>授業情報 / Courses</h2>
         <!-- 追加：授業ページへのリンク -->
         <ul>
-        <p class="more"><a href="courses.html">→ 授業情報を見る</a></p>
+        <p class="more"><a href="courses.html" target="_blank" rel="noopener noreferrer">→ 授業情報を見る</a></p>
         </ul>
         </section>
 
@@ -208,21 +208,4 @@
 </script>
 
 <div id="pub-container"></div>
-
-<script>
-  fetch("publications.html")
-    .then(response => response.text())
-    .then(data => {
-      // new DOM へ変換
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(data, "text/html");
-
-      // publications.html 内の <main> だけ抽出（必要に応じて変更）
-      const mainContent = doc.querySelector("main");
-
-      // index.html の表示エリアに挿入
-      document.getElementById("pub-container").innerHTML = mainContent.innerHTML;
-    })
-    .catch(error => console.error("読み込みエラー:", error));
-</script>
 
