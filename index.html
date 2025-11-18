@@ -15,14 +15,7 @@
     .sidebar h3 { margin-top: 0; }
     footer { text-align: center; font-size: 14px; color: #777; margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px; }
   </style>
-</head>
-<script>
-  document.getElementById("menu-btn").addEventListener("click", function() {
-    document.getElementById("sidebar-content").classList.toggle("open");
-  });
-</script>
-
-  
+</head>  
 <body>
   
 <header id="sidebar">
@@ -197,3 +190,13 @@
   <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 </body>
 </html>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const btn = document.getElementById("menu-btn");
+    const menu = document.getElementById("sidebar-content");
+
+    btn.addEventListener("click", function() {
+      menu.classList.toggle("open");
+    });
+  });
+</script>
