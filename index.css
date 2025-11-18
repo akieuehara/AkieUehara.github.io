@@ -377,3 +377,62 @@ h4 {
   }
 }
 
+/* ================================
+   PCレイアウト：中央寄せ & 左にサイドバー
+   ================================ */
+@media screen and (min-width: 801px) {
+
+  /* サイドバー + メインを中央に配置する枠 */
+  .page-wrapper {
+    max-width: 1200px;        /* 全体の幅 */
+    margin: 0 auto;           /* 画面中央に配置 */
+    display: flex;
+    align-items: flex-start;
+    gap: 32px;                /* サイドバーと本文の間隔 */
+    padding: 20px 16px;
+    box-sizing: border-box;
+  }
+
+  /* サイドバーは左の固定ではなく、通常の左カラムに */
+  #sidebar {
+    position: static;         /* 既存の position:fixed を打ち消す */
+    width: 260px;
+    height: auto;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+
+  /* メインコンテンツ側 */
+  #content-wrapper {
+    margin: 0;                /* 既存の margin-left:250px を打ち消す */
+    max-width: 900px;         /* 本文の最大幅 */
+    padding: 16px;
+    box-sizing: border-box;
+  }
+}
+
+/* ================================
+   スマホレイアウト：サイドバー非表示
+   ================================ */
+@media screen and (max-width: 800px) {
+
+  /* サイドバー全体を非表示に */
+  #sidebar {
+    display: none;
+  }
+
+  /* 本文は画面いっぱい使う */
+  .page-wrapper {
+    max-width: 100%;
+    margin: 0;
+    padding: 0 12px;
+  }
+
+  #content-wrapper {
+    margin: 0;
+    max-width: 100%;
+    padding: 16px 0 40px;
+  }
+}
+
+
