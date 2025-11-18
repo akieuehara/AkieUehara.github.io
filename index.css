@@ -347,4 +347,11 @@ h4 {
   padding: 6px 0;
 }
 
+#sidebar-content {
+  display: none;
+}
+
+#sidebar-content.open {
+  display: block;
+}
 
