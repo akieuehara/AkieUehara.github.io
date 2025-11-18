@@ -206,3 +206,23 @@
     });
   });
 </script>
+
+<div id="pub-container"></div>
+
+<script>
+  fetch("publications.html")
+    .then(response => response.text())
+    .then(data => {
+      // new DOM へ変換
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(data, "text/html");
+
+      // publications.html 内の <main> だけ抽出（必要に応じて変更）
+      const mainContent = doc.querySelector("main");
+
+      // index.html の表示エリアに挿入
+      document.getElementById("pub-container").innerHTML = mainContent.innerHTML;
+    })
+    .catch(error => console.error("読み込みエラー:", error));
+</script>
+
