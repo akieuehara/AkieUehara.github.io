@@ -1,16 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
   <meta charset="utf-8">
-
   <title>{{ page.title }}</title>
+
+  <!-- CSSを読み込む -->
   <link rel="stylesheet" href="{{ '/index.css' | relative_url }}">
 </head>
+
 <body>
 
-  {{ content }}
+  <div class="page-wrapper">
+    {{ content }}   <!-- ← ここに Markdown が展開される -->
+  </div>
 
-  <!-- 🔥 重要：relative_urlでurl崩壊を防ぐ -->
+  <!-- 新しいタブでリンクを開くJS -->
   <script src="{{ '/assets/js/open_external.js' | relative_url }}"></script>
+
 </body>
 </html>
