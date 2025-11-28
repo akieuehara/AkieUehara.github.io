@@ -330,7 +330,7 @@ The 8th International Conference on Power Electronics and Drive Systems, No. 361
 <b>Frequency Regulation by Coordination Control of Wind Turbine Generator and Battery using Load Estimation</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi<br>
 The 8th International Conference on Power Electronics and Drive Systems, No. 360, 2009.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385765>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="[10.1109/PEDS.2009.5385765](https://doi.org/10.1109/peds.2009.5385765)>" data-style="small_rectangle"></span>
 </li>
 
 <li>
