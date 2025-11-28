@@ -95,15 +95,18 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 受賞 / Award
 
-- 電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会）
-- 2012 Excellent Student Award of the IEEE Fukuoka Section, 平成25年2月2日受賞, 授与者:IEEE福岡支部
-- 琉球大学学長賞, 平成23年3月23日受賞, 授与者：琉球大学学長  
-- 電気学会優秀論文発表賞, 平成22年9月29日受賞
-- 電気学会電力・エネルギー部門大会ヤング・ポスター・エンジニア・コンペティション(YPC: Young engineer Poster Competition) 優秀発表賞, 平成22年9月2日受賞
-- 沖縄学術講演奨励賞, 平成22年3月受賞
-- IEEE PES Japan Chapter 学生優秀論文賞, 平成22年1月12日受賞
-- 電子情報通信学会九州支部成績優秀賞受賞，平成21年3月受賞  
-  
+<ol reversed start="8">
+
+<li>電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会</li>
+<li>2012 Excellent Student Award of the IEEE Fukuoka Section, 平成25年2月2日受賞, 授与者:IEEE福岡支部</li>
+<li>琉球大学学長賞, 平成23年3月23日受賞, 授与者：琉球大学学長</li>
+<li>電気学会優秀論文発表賞, 平成22年9月29日受賞</li>
+<li>電気学会電力・エネルギー部門大会ヤング・ポスター・エンジニア・コンペティション(YPC: Young engineer Poster Competition) 優秀発表賞, 平成22年9月2日受賞</li>
+<li>沖縄学術講演奨励賞, 平成22年3月受賞</li>
+<li>IEEE PES Japan Chapter 学生優秀論文賞, 平成22年1月12日受賞</li>
+<li>電子情報通信学会九州支部成績優秀賞受賞，平成21年3月受賞</li>
+
+</ol>
 ---
 
 ## 研究費・プロジェクト / Project
