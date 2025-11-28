@@ -46,7 +46,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 出版物 / Publications
 
-代表論文：
+**代表論文：**  
 
 | Title | Citation Badge |
 |---|---|
