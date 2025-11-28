@@ -162,6 +162,10 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
+↓本HPのQRコードです。  
+
+<img src="qr_uehara_homepage.png" width="180">
+
 <footer align="center">
 © {{ site.time | date: "%Y" }} Akie Uehara
 </footer>
