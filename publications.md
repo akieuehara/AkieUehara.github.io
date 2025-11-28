@@ -13,7 +13,7 @@ title: "Publication"
 <ol reversed>
 
 <li>
-  <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b>  
+  <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b></br> 
 Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid</br>
 Journal of Energy Storage, Volume 138, 118745, 2025.12</br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2025.118745" data-style="small_rectangle"></span></li>
