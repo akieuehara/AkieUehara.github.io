@@ -506,4 +506,16 @@ ol[reversed] li::marker {
     font-weight: bold;
 }
 
+/* =========================
+   H1タイトル文字色を黒に変更
+   ========================= */
+h1 {
+    color: #000 !important;
+}
+
+/* H2以下も黒に変えたい場合は追加 */
+h2, h3, h4 {
+    color: #000 !important;
+}
+
 
