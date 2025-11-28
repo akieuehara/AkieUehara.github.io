@@ -192,49 +192,49 @@ Takuka Ishibashi, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu S
 <b>MPC-based Optimal Operation of Smart City Considering Multi Energy Storage</b><br>
 Takuma Ishibashi, Akie Uehara, Narayanan Krichna, Ashraf M. Hemeida, Hiroshi Takahashi, Tomonobu Senjyu<br>
 13th International Conference on Renewable Energy Research and Applications (ICRERA 2024), 249, 2024.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815324" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815324" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Energy Management of Aquaculture Considering Load Unit Commitment Under Different Contract Power</b><br>
 Soichiro Ueda, Jane Wambui Chege, Takuma Ishibashi, Shinya Yamamoto, Akie Uehara, Tomonobu Senjyu<br>
 13th International Conference on Renewable Energy Research and Applications (ICRERA 2024), 241, 2024.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815149" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815149" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Optimal Operation of Convenience Store with Electric Vehicle and Cooling Model Heat Pump</b><br>
 Shinya Yamamoto, Akie Uehara, Hiroshi Takahashi, Edward Randolph Collins, Shriram Srinivasarangan, Tomonobu Senjyu<br>
 13th International Conference on Renewable Energy Research and Applications (ICRERA 2024), 266, 2024.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815297" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815297" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>MPC-based Optimal Operation of Smart city Considering Seasonally Adjusted Parameter</b><br>
 Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2024 11th International Conference on Power and Energy Systems Engineering (CPESE 2024), SE24-9668, 2024.09<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10841239" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10841239" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Optimal Management of EV Charging Stations Based on Scale Considerations</b><br>
 Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2024 11th International Conference on Power and Energy Systems Engineering (CPESE 2024), SE24-6503, 2024.09<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10840505" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10840505" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>GFM inverter control considering dynamic voltage stability in power systems</b><br>
 Hiroyuki Mizoguchi, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2024 11th International Conference on Power and Energy Systems Engineering (CPESE 2024), SE24-5320, 2024.09<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10840513" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10840513" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Optimal Operation of Smart House Considering Water Temperature in Hot Water Storage Tank</b><br>
 Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2024 11th International Conference on Power and Energy Systems Engineering (CPESE 2024), SE24-4154, 2024.09<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10841272" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/CPESE62584.2024.10841272" data-style="small_rectangle"></span>
 </li>
 
 <li>
@@ -259,7 +259,7 @@ International Council on Electrical Engineering (ICEE) Conference 2024, O-022, 2
 <b>A Fuzzy-Based Output Power Smoothing of WECS using Short-Term Ahead Prediction of Wind Speed</b><br>
 Yuya Izumi, Alok Pratap, Yoshihisa Kinjyo, Akie Uehara, Tomonobu Senjyu, Endusa Billy Muho, Atsushi Yona, Toshihisa Funabashi<br>
 2011 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2011), pp. 2414, no. F-0097, 2011.06<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/FUZZY.2011.6007368" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/FUZZY.2011.6007368" data-style="small_rectangle"></span>
 </li>
 
 <li>
@@ -272,7 +272,7 @@ Abdul Motin Howlader, Naomitsu Urasaki, Tomonobu Senjyu, Akie Uehara, Atsushi Yo
 <b>Output Power Smoothing of PMSG-Based Wind Energy Conversion System</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi, Chul-Hwan Kim<br>
 The 9th International Power and Energy Conference, WeN-5.4, P0349, pp. 128–133, 2010.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/IPECON.2010.5697143" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/IPECON.2010.5697143" data-style="small_rectangle"></span>
 </li>
 
 <li>
@@ -303,7 +303,7 @@ Proceedings of 16th International Conference on Electrical Engineering, RE-18, 2
 <b>A Fuzzy-Logic-Based Output Power Smoothing Method of WECS with Permanent Magnet Synchronous Generator using Inertia of Wind Turbine</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi, Chul-Hwan Kim<br>
 Proceedings of 16th International Conference on Electrical Engineering, RE-17, 2010.07<br>
-<span class="__dimensions_badge_embed__" data-doi="10.5370/JICEE.2011.1.3.309" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.5370/JICEE.2011.1.3.309" data-style="small_rectangle"></span>
 </li>
 
 <li>
@@ -316,42 +316,42 @@ International Conference of Renewable Energy 2010, O-Wd-2-4, 2010.06–07
 <b>A Hybrid Smart AC/DC Power System</b><br>
 Kyohei Kurohane, Tomonobu Senjyu, Akie Uehara, Atsushi Yona, Toshihisa Funabashi<br>
 2010 5th IEEE Conference on Industrial Electrical and Applications, WeM5.19, P0279, pp. 764–769, 2010.06<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ICIEA.2010.5516936>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICIEA.2010.5516936>" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Study on Optimum Operation Planning of Wind Farm/Battery System using Forecasted Generated Power Data</b><br>
 Akie Uehara, Tomonobu Senjyu, Yasuaki Kikunaga, Bungo Asato, Atsushi Yona, Toshihisa Funabashi<br>
 The 8th International Conference on Power Electronics and Drive Systems, No. 361, 2009.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385766>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385766>" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Frequency Regulation by Coordination Control of Wind Turbine Generator and Battery using Load Estimation</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi<br>
 The 8th International Conference on Power Electronics and Drive Systems, No. 360, 2009.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385765>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385765>" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Addressing Grid Integration Issues for DFIG-Based WECS via Multiobjective H1 Paradigm</b><br>
 Endusa Billy Muho, Tomonobu Senjyu, Akie Uehara, Chul-Hwan Kim<br>
 IEEE T&D Asia Conference and Exposition 2009, PO3-7, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356871>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356871>" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Smoothing Control of Generated Power Fluctuation of WTG using Gain-Scheduled Control</b><br>
 Tomonobu Senjyu, Akie Uehara, Yasuaki Kikunaga, Bungo Asato, Atsushi Yona, Toshihisa Funabashi, Chul-Hwan Kim<br>
 IEEE T&D Asia Conference and Exposition 2009, OR9-3, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356948>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356948>" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Frequency Control by Coordination Control of Wind Turbine Generator and Battery using H∞ Control</b><br>
 Tomonobu Senjyu, Akie Uehara, Atsushi Yona, Toshihisa Funabashi<br>
 IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356848>" data-style="small_rectangle"></span></li>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356848>" data-style="small_rectangle"></span>
 </li>
 
 </ol>
