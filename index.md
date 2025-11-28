@@ -33,7 +33,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 ---
 
 
-## リンク / Links
+## リンク / Link
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/KIL-1742-2024)
 - [Google Scholar](https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/)
@@ -45,7 +45,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 出版物 / Publications
+## 出版物 / Publication
 
 **代表論文：**
 
@@ -86,7 +86,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 授業 / Courses
+## 授業 / Course
 
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
@@ -106,7 +106,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
   
 ---
 
-## 研究費・プロジェクト / Projects
+## 研究費・プロジェクト / Project
 
 - 離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討  
 参画方法：研究代表者  
@@ -139,12 +139,12 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## プロフィール / Profile
 
-- 2025年02月 - 継続中 　　 琉球大学工学部 電気システム工学コース 助教  
-- 2014年07月 - 2025年01月 沖縄電力株式会社 電力流通部
-- 2012年04月 - 2013年03月 琉球大学大学院理工学研究科 博士後期課程
-- 2011年04月 - 2014年06月 沖縄電力株式会社 研究開発部
-- 2009年04月 - 2011年03月 琉球大学大学院理工学研究科 博士前期課程
-- 2005年04月 - 2009年03月 琉球大学工学部 電気電子工学科
+- 2025年02月 - 継続中 　　　琉球大学工学部 電気システム工学コース 助教  
+- 2014年07月 - 2025年01月　沖縄電力株式会社 電力流通部
+- 2012年04月 - 2013年03月　琉球大学大学院理工学研究科 博士後期課程
+- 2011年04月 - 2014年06月　沖縄電力株式会社 研究開発部
+- 2009年04月 - 2011年03月　琉球大学大学院理工学研究科 博士前期課程
+- 2005年04月 - 2009年03月　琉球大学工学部 電気電子工学科
 
 [博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
   
@@ -162,7 +162,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-↓本HPのQRコードです。  
+本HPのQRコードです。
 
 <img src="qr_uehara_homepage.png" width="180">
 
