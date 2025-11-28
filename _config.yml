@@ -1,2 +1,14 @@
 theme: minima      # 公式テーマ（変更OK）
 markdown: kramdown
+
+# --- 既存の設定の下に追加でOK ---
+include:
+  - assets/js/open_external.js     # JSを読み込めるようにする
+
+defaults:
+  -
+    scope:
+      path: ""                     # 全ページ対象
+    values:
+      scripts:                     # head/footer にJSを挿入可能にする
+        - /assets/js/open_external.js
