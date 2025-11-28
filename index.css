@@ -506,12 +506,12 @@ h2, h3, h4 {
 
     html, body {
         font-size: 16px !important;   
-		line-height: 1.5 !important; 
+		line-height: 1.85 !important; 
     }
 
     p, li, span, div, section {
         font-size: 16px !important;
-        line-height: 1.5 !important;
+        line-height: 1.85 !important;
     }
 
     h1 { font-size: 20px !important; }
