@@ -13,30 +13,38 @@ title: "Publication"
 <ol reversed>
 
 <li>
-  <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b></br> 
-Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid</br>
-Journal of Energy Storage, Volume 138, 118745, 2025.12</br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2025.118745" data-style="small_rectangle"></span></li>
+  <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b></br>
+  Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid</br>
+  Journal of Energy Storage, Volume 138, 118745, 2025.12</br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2025.118745" data-style="small_rectangle"></span>
+  </li>
 
-<li><b>Soft Computing based Damping Controllers with Online Parameters Tuning for Stability Enhancement of Power Systems</b></br>
-Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada</br>
-IIEEE Access, Vol. 13, pp. 167045–167060, 2025.09</br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288" data-style="small_rectangle"></span></li>
+<li>
+  <b>Soft Computing based Damping Controllers with Online Parameters Tuning for Stability Enhancement of Power Systems</b></br>
+  Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada</br>
+  IEEE Access, Vol. 13, pp. 167045–167060, 2025.09</br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288" data-style="small_rectangle"></span>
+  </li>
 
-<li><b>Multi-Objective Optimization of On-Grid Park and Ride EV Parking Station with Renewable Energy</b><br>
-Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Ashraf Mohamed Hemeida, Mitsunaga Kinjo, Tomonobu Senjyu</br>
-IEEE Access, Vol. 13, pp. 152669–152681, 2025.08</br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3604097" data-style="small_rectangle"></span></li>
+<li>
+  <b>Multi-Objective Optimization of On-Grid Park and Ride EV Parking Station with Renewable Energy</b><br>
+  Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Ashraf Mohamed Hemeida, Mitsunaga Kinjo, Tomonobu Senjyu</br>
+  IEEE Access, Vol. 13, pp. 152669–152681, 2025.08</br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3604097" data-style="small_rectangle"></span>
+  </li>
 
-<li><b>Multi-objective optimization of hybrid renewable energy system for recirculating aquaculture system in Kenyan highlands</b><br>
-Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu</br>
-Energy Conversion and Management, Vol. 345, 1, 120350, 2025.12</br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350" data-style="small_rectangle"></span></li>
+<li>
+  <b>Multi-objective optimization of hybrid renewable energy system for recirculating aquaculture system in Kenyan highlands</b><br>
+  Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu</br>
+  Energy Conversion and Management, Vol. 345, 1, 120350, 2025.12</br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350" data-style="small_rectangle"></span>
+  </li>
 
-<li><b>Harnessing buoyancy for scalable and sustainable energy storage</b><br>
-Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu</br>
-Energy Conversion and Management, Vol. 344, 15, 120135, 2025.11</br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135" data-style="small_rectangle"></span></li>
+<li>
+  <b>Harnessing buoyancy for scalable and sustainable energy storage</b><br>
+  Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu</br>
+  Energy Conversion and Management, Vol. 344, 15, 120135, 2025.11</br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135" data-style="small_rectangle"></span></li>
 
 <li><b>Optimal capacity of renewable energy and methanation system in a remote island model considering frequency fluctuation</b><br>
 Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Ahmed Rashwan, Ashraf Mohamed Hemeida, Tomonobu Senjyu</br>
