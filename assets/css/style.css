@@ -14,3 +14,15 @@
         margin-bottom: 8px; /* 行間を空けて可読性UP */
     }
 }
+/* ---------------------------------------------------
+   OLを黒丸ではなく番号付き表示に戻す（強制）
+--------------------------------------------------- */
+ol {
+    list-style-type: decimal !important;
+    margin-left: 1.2em; /* 左に適度な余白 */
+}
+
+/* reversed対応（任意・番号を見やすく） */
+ol[reversed] {
+    list-style-type: decimal !important;
+}
