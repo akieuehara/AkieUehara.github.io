@@ -1,4 +1,11 @@
 ---
+layout: default
+title: "Publications"
+---
+
+# Publications
+
+---
 title: 出版物リスト / Publications
 ---
 
