@@ -10,7 +10,7 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="27">
+<ol reversed start="28">
 
 <li>
   <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b><br>
