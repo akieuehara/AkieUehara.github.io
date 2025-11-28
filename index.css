@@ -520,7 +520,7 @@ h2, h3, h4 {
 
     #content-wrapper {
         margin: 0 auto !important;
-        padding: 18px !important;     /* 左右の余白は確保 */
+        padding: 22px !important;     /* 左右の余白は確保 */
         width: calc(100% - 36px) !important;
     }
 }
