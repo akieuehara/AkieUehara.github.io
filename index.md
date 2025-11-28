@@ -1,8 +1,7 @@
 ---
-title: "上原 明恵 | Akie Uehara"
 layout: default
+title: "Home"
 ---
-
 # 上原 明恵 / **Akie Uehara**
 
 ---
@@ -45,7 +44,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 出版物 / Publications（代表論文）
+## 出版物 / Publications
 
 代表論文：
 
