@@ -518,4 +518,39 @@ h2, h3, h4 {
     color: #000 !important;
 }
 
+/* ==============================
+   🔥 スマホ最適化（表示改善版）
+   ============================== */
+@media (max-width: 768px) {
+
+    /* 文字サイズを大きくして可読性UP */
+    body {
+        font-size: 18px !important;
+        line-height: 1.9;
+    }
+
+    h1 { font-size: 22px !important; }
+    h2 { font-size: 20px !important; }
+    li, p { font-size: 18px !important; }
+
+    /* 横スクロール防止（最重要）*/
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+    /* 📌 コンテンツが画面幅いっぱいに収まるよう調整 */
+    #content-wrapper {
+        margin-left: 0 !important;
+        padding: 14px !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        box-sizing: border-box;
+    }
+
+    /* 📌 サイドバーはスマホでは非表示（推奨） */
+    #sidebar {
+        display: none !important;
+    }
+}
 
