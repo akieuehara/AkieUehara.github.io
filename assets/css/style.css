@@ -26,3 +26,19 @@ ol {
 ol[reversed] {
     list-style-type: decimal !important;
 }
+
+/* 📑 Publicationsページの番号と本文に余白を追加 */
+ol {
+    padding-left: 1.8em !important;   /* ← 現状より広げる（推奨） */
+}
+
+ol li {
+    margin-left: .2em;                /* 番号と文字の間に少し余裕 */
+    padding-left: .4em;               /* ← さらに離す効果アップ */
+}
+
+/* スマホ時はもっとゆとりを付ける */
+@media screen and (max-width:600px) {
+    ol { padding-left: 2em !important; }    /* ← ここで差が出る！ */
+    ol li { padding-left: .55em; }
+}
