@@ -10,6 +10,9 @@ title: 出版物リスト / Publications
 
 ## 学術論文誌 / Journals
 
+{% raw %}
+{% markdown %}
+
 27. Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems  
 Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid  
 Journal of Energy Storage, Volume 138, 118745, 2025.12  
@@ -536,3 +539,5 @@ Shinya Yamamoto, Masahiro Furukakoi, Hiroshi Takahashi, Akie Uehara, Tomonobu Se
 電力系統における蓄電池利用・制御技術調査専門委員会  
 一般社団法人電気学会, 2017.05, 120ページ（共著）  
 
+{% endmarkdown %}
+{% endraw %}
