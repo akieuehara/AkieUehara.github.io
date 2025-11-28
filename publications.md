@@ -10,7 +10,7 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed>
+<ol reversed start="27">
 
 <li>
   <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b><br>
@@ -161,7 +161,8 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 ---
 
 ## 国際会議・シンポジウム / International Conferences  
-<ol reversed>
+
+<ol reversed start="29">
 
 <li>
 <b>Novel Fault Tolerant Dual-Input LLC Resonant DC/DC Converter with Hybrid PWM-PFM Control for HVDC Interconnection</b><br>
@@ -359,8 +360,9 @@ IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
 
 ---
 
-## 国内学会・研究会 / Domestic Conferences
-<ol reversed>
+## 国内学会・研究会 / Domestic Conferences  
+
+<ol reversed start="60">
 
 <li>
 <b>超電導限流器を導入した MTDC システムにおける故障電流抑制</b><br>
