@@ -29,19 +29,19 @@ layout: default
 
 e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
+![上原明恵の写真](photo.jpeg)
+
 ---
 
 
 ## リンク / Links
 
-| サービス | URL |
-|---|---|
-| Google Scholar | https://scholar.google.com/citations?user=06S_jV4AAAAJ |
-| ORCID | https://orcid.org/0009-0002-2724-3638 |
-| Researchmap | https://researchmap.jp/uehara_a |
-| ResearchGate | https://www.researchgate.net/profile/Akie-Uehara |
-| Scopus | https://www.scopus.com/authid/detail.uri?authorId=26423385600 |
-| Dimensions | https://app.dimensions.ai/details/entities/publication/author/ur.010532112043.18 |
+- [Google Scholar](https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/)
+- [ORCID](https://orcid.org/0009-0002-2724-3638)
+- [Researchmap](https://researchmap.jp/uehara_a)
+- [ResearchGate](https://www.researchgate.net/profile/Akie-Uehara/research)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26423385600)
+- [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.010532112043.18)
 
 ---
 
@@ -121,7 +121,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 2009年04月 - 2011年03月 琉球大学大学院理工学研究科 博士前期課程
 - 2005年04月 - 2009年03月 琉球大学工学部 電気電子工学科
 
-📄 [博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
+[博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
 
 ### 資格
 
