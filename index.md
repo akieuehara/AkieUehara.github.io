@@ -47,6 +47,8 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 出版物 / Publications（代表論文）
 
+代表論文：
+
 | Title | Citation Badge |
 |---|---|
 | A Coordinated Control Method to Smooth Wind Power Fluctuations of a PMSG-Based WECS *(IEEE Trans. Energy Conversion, 2011)* | <span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2011.2107912" data-style="small_rectangle"></span> |
@@ -55,7 +57,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 | An integrated control method for a wind farm to reduce frequency deviations *(Applied Energy 2011)* | <span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024" data-style="small_rectangle"></span> |
 | Output power dispatch control for a wind farm *(Wind Energy 2010)* | <span class="__dimensions_badge_embed__" data-doi="10.1002/we.388" data-style="small_rectangle"></span> |
 
-🔗 **→ 全論文はこちら** → [publications.md](publications.md)
+**→ 全論文はこちら** → [publications.md](publications.md)
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
@@ -66,59 +68,72 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
 
-🔗 詳細ページ → [courses.md](courses.md)
-
 ---
 
 ## 受賞 / Award
 
-- 電気学会第22回優秀技術活動賞 技術報告賞 (2019)  
-- IEEE Fukuoka Section Excellent Student Award (2012)  
-- 琉球大学学長賞 (2011)  
-- 電気学会優秀論文発表賞 (2010)  
-- YPC 優秀発表賞 (2010)  
-- 沖縄学術講演奨励賞 (2010)  
-- IEEE PES Japan Chapter 学生優秀論文賞 (2010)  
-- 電子情報通信学会九州支部成績優秀賞 (2009)
-
+- 8. 電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会）
+- 7. 2012 Excellent Student Award of the IEEE Fukuoka Section, 平成25年2月2日受賞, 授与者:IEEE福岡支部
+- 6. 琉球大学学長賞, 平成23年3月23日受賞, 授与者：琉球大学学長
+- 5. 電気学会優秀論文発表賞, 平成22年9月29日受賞
+- 4. 電気学会電力・エネルギー部門大会ヤング・ポスター・エンジニア・コンペティション(YPC: Young engineer Poster Competition) 優秀発表賞, 平成22年9月2日受賞
+- 3. 沖縄学術講演奨励賞, 平成22年3月受賞
+- 2. IEEE PES Japan Chapter 学生優秀論文賞, 平成22年1月12日受賞,
+- 1. 電子情報通信学会九州支部成績優秀賞受賞，平成21年3月受賞
+  
 ---
 
 ## 研究費・プロジェクト / Projects
 
-- **再エネ主力化に向けた発電機起動停止計画手法**  
-  (2025–2026 / 沖縄電力)
+- **離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討**  
+　参画方法：研究代表者
+  事業名：令和7年度 沖縄イノベーション・エコシステム共同研究推進事業委託業務及び同補助金
+  期間：2025年07月 - 2026年02月
+  連携研究者：沖縄電力株式会社
 
-- **Wind Farm + Batteryによる周波数制御**  
-  (2009 / 東電記念科学技術研究所)
-
+- **Frequency Control by Coordination Control of Wind Turbine Generator and Battery using Load Estimation in Isolated Island**  
+  参画方法：研究代表者
+  事業名：財団法人東電記念科学技術研究所（平成21年度国際技術交流援助）
+  期間：2009年11月1日～6日（第8回パワーエレクトロニクス・ドライブシステム国際会議）
+  連携研究者：-
 ---
 
-## 学会活動 / Academic Activities
+## 学会・コミュニティ活動 / Society and Community
 
-- 電気学会  
-- 計測自動制御学会  
-- 電子情報通信学会  
-- 電気設備学会  
+- 電気学会  正員
+- 計測自動制御学会　正員  
+- 電子情報通信学会  正員
+- 電気設備学会  正員
 - IEEE Member  
+
+社会活動：
+- 沖縄県クリーンエネルギー共創会議　
+- 令和7年度沖縄型クリーンエネルギー導入促進調査事業　第三者検討委員会
 
 ---
 
 ## プロフィール / Profile
 
-- 2025– 現職：琉球大学 工学部 助教  
-- 2014–2025 沖縄電力 (研究開発・流通)  
-- 博士（工学）琉球大学 (2013年3月)
+- 2025年02月 - 継続中 　　 琉球大学工学部 電気システム工学コース 助教  
+- 2014年07月 - 2025年01月 沖縄電力株式会社 電力流通部
+- 2012年04月 - 2013年03月 琉球大学大学院理工学研究科 博士後期課程
+- 2011年04月 - 2014年06月 沖縄電力株式会社 研究開発部
+- 2009年04月 - 2011年03月 琉球大学大学院理工学研究科 博士前期課程
+- 2005年04月 - 2009年03月 琉球大学工学部 電気電子工学科
 
 📄 [博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
 
 ### 資格
 
-- 電気主任技術者（2種）
+- 電気主任技術者（第2種）
 - エネルギー管理士（電気）
 - 宅地建物取引士
 - 技術士補
 - 基本情報技術者
-- その他多数
+- 簿記検定（日商3級）
+- 危険物取扱者（甲種）
+- 測量士補
+- 電気工事士（第2種）
 
 ---
 
