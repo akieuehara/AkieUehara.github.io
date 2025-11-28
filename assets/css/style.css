@@ -1,0 +1,16 @@
+/* スマホ画面の文字サイズを調整 */
+@media (max-width: 600px) {
+    body {
+        font-size: 18px;   /* ← 現状よりやや大きめに */
+        line-height: 1.8;
+    }
+
+    h1, h2 {
+        font-size: 24px; /* 見出しも読みやすく */
+    }
+
+    li {
+        font-size: 17px;
+        margin-bottom: 8px; /* 行間を空けて可読性UP */
+    }
+}
