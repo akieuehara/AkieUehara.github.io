@@ -12,128 +12,141 @@ title: "Publication"
 
 <ol reversed>
 
-<li><b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b><br>
-Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid  
-Journal of Energy Storage, Vol.138, 118745 (2025.12)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2025.118745"></span></li>
+<li>
+  <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b></br>  
+Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid</br>   
+Journal of Energy Storage, Volume 138, 118745, 2025.12  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2025.118745" data-style="small_rectangle"></span></li>
 
-<li><b>Soft Computing based Damping Controllers with Online Parameters Tuning for Stability Enhancement of Power Systems</b><br>
-Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada  
-IEEE Access, 13, 167045–167060 (2025.09)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288"></span></li>
+<li><b>Soft Computing based Damping Controllers with Online Parameters Tuning for Stability Enhancement of Power Systems</b></br>  
+Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada</br>  
+IIEEE Access, Vol. 13, pp. 167045–167060, 2025.09</br>  
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288" data-style="small_rectangle"></span></li>
 
 <li><b>Multi-Objective Optimization of On-Grid Park and Ride EV Parking Station with Renewable Energy</b><br>
-Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Ashraf Mohamed Hemeida, Mitsunaga Kinjo, Tomonobu Senjyu  
-IEEE Access, 13, 152669–152681 (2025.08)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3604097"></span></li>
+Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Ashraf Mohamed Hemeida, Mitsunaga Kinjo, Tomonobu Senjyu</br>  
+IEEE Access, Vol. 13, pp. 152669–152681, 2025.08</br>  
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3604097" data-style="small_rectangle"></span></li>
 
 <li><b>Multi-objective optimization of hybrid renewable energy system for recirculating aquaculture system in Kenyan highlands</b><br>
-Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu  
-Energy Conversion and Management, Vol.345, 120350 (2025.12)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350"></span></li>
+Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu</br>  
+Energy Conversion and Management, Vol. 345, 1, 120350, 2025.12</br>  
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350" data-style="small_rectangle"></span></li>
 
 <li><b>Harnessing buoyancy for scalable and sustainable energy storage</b><br>
-Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu  
-Energy Conversion and Management, Vol.344, 120135 (2025.11)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135"></span></li>
+Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu</br>  
+Energy Conversion and Management, Vol. 344, 15, 120135, 2025.11</br>  
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135" data-style="small_rectangle"></span></li>
 
 <li><b>Optimal capacity of renewable energy and methanation system in a remote island model considering frequency fluctuation</b><br>
-Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Ahmed Rashwan, Ashraf Mohamed Hemeida, Tomonobu Senjyu  
-International Journal of Emerging Electric Power Systems (2025.07)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1515/ijeeps-2025-0110"></span></li>
+Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Ahmed Rashwan, Ashraf Mohamed Hemeida, Tomonobu Senjyu</br>  
+International Journal of Emerging Electric Power Systems, 2025.07  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1515/ijeeps-2025-0110" data-style="small_rectangle"></span></li>
 
 <li><b>Optimization of PV and battery systems in university campuses</b><br>
-Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Narayanan Krishnan, Ashraf M. Hemeida, Tomonobu Senjyu  
-Energy and Buildings, Vol.335, 115512 (2025.05)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2025.115512"></span></li>
+Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Narayanan Krishnan, Ashraf M. Hemeida, Tomonobu Senjyu  </br>
+Energy and Buildings, Vol. 335, 115512, 2025.05  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2025.115512" data-style="small_rectangle"></span></li>
 
 <li><b>Enhancing Smart Microgrid Resilience and Virtual Power Plant Profitability</b><br>
-T. Yuvaraj, T. Sengolrajan, Natarajan Prabaharan, K. R. Devabalaji, Akie Uehara, Tomonobu Senjyu  
-IEEE Access, 13, 80796–8082 (2025.04)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3565460"></span></li>
+T. Yuvaraj, T. Sengolrajan, Natarajan Prabaharan, K. R. Devabalaji, Akie Uehara, Tomonobu Senjyu  </br>
+IEEE Access, Vol. 13, 80796–8082, 2025.04  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3565460" data-style="small_rectangle"></span></li>
 
 <li><b>Optimal energy management strategy for electric vehicles and electricity distribution system</b><br>
-Dineshkumar Selvaraj, Senthilnathan Nattuthurai, Akie Uehara, Tomonobu Senjyu  
-Energy Reports, 12, 631–655 (2024.12)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2024.06.016"></span></li>
+Dineshkumar Selvaraj, Senthilnathan Nattuthurai, Akie Uehara, Tomonobu Senjyu  </br>
+Energy Reports, Vol. 12, 631–655, 2024.12  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2024.06.016" data-style="small_rectangle"></span></li>
 
 <li><b>Model Predictive Control Based Optimal Operation of Smart City</b><br>
-Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hasan Masrur, Ahmed Rashwan, Narayanan Krishna, Paras Mandal, Hiroshi Takahashi, Tomonobu Senjyu  
-Sustainable Cities and Society, Vol.114, 105759 (2024.11)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scs.2024.105759"></span></li>
+Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hasan Masrur, Ahmed Rashwan, Narayanan Krishna, Paras Mandal, Hiroshi Takahashi, Tomonobu Senjyu  </br>
+Sustainable Cities and Society, Vol. 114, 105759, 2024.11  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.scs.2024.105759" data-style="small_rectangle"></span></li>
 
 <li><b>MPC-based robust optimization of smart apartment building</b><br>
-Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Alexey Mikhaylov, Paras Mandal, Tomonobu Senjyu  
-Energy and Buildings, Vol.318, 114461 (2024.09)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2024.114461"></span></li>
+Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Alexey Mikhaylov, Paras Mandal, Tomonobu Senjyu  </br>
+Energy and Buildings, Vol. 318, 114461, 2024.09  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2024.114461" data-style="small_rectangle"></span></li>
 
 <li><b>A robust controller H-infinity based frequency control approach</b><br>
-Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasak, Tomonobu Senjyu, Ahmed Yousuf Saber  
-IJEPES, Vol.58, 190–198 (2014.06)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2014.01.024"></span></li>
+Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasak, Tomonobu Senjyu, Ahmed Yousuf Saber  </br>
+International Journal of Electrical Power & Energy Systems, Vol. 58, pp. 190–198, 2014.06  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2014.01.024" data-style="small_rectangle"></span></li>
 
 <li><b>A minimal order observer based frequency control strategy</b><br>
-Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasaki, Tomonobu Senjyu, Atsushi Yona  
-Energy, Vol.46(1), 168–178 (2012.10)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.energy.2012.08.039"></span></li>
+Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasaki, Tomonobu Senjyu, Atsushi Yona  </br>
+Energy, Vol. 46, Issue 1, pp. 168–178, 2012.10  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.energy.2012.08.039" data-style="small_rectangle"></span></li>
 
-<li><b>A Coordinated Control Method to Smooth Wind Power Fluctuations</b><br>
-Akie Uehara et al.  
-IEEE Trans. Energy Conversion, 26(2), 550–558 (2011.06)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2011.2107912"></span></li>
+<li><b>A Coordinated Control Method to Smooth Wind Power Fluctuations</b>  
+Akie Uehara, Alok Pratap, Tomonori Goya, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi  </br>
+IEEE Transactions on Energy Conversion, Vol. 26, No. 2, pp. 550–558, 2011.06  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2011.2107912" data-style="small_rectangle"></span></li>
 
 <li><b>An integrated control method for a wind farm</b><br>
-Toshiaki Kaneko et al.  
-Applied Energy 88(4), 1049–1058 (2011.04)<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024"></span></li>
+Toshiaki Kaneko, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki  </br>
+Applied Energy, Vol. 88, Issue 4, pp. 1049–1058, 2011.04  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024" data-style="small_rectangle"></span></li>
 
 <li><b>A New Control Methodology of Wind Turbine Generators</b><br>
-Kaneko et al. Wind Energy, 14(3), 407–423 (2011.04)  
-<span class="__dimensions_badge_embed__" data-doi="10.1002/we.429"></span></li>
+Toshiaki Kaneko, Akie Uehara, Atsushi Yona, Tomonobu Senjyu, Chul-Hwan Kim  </br>
+Wind Energy, Vol. 14, Issue 3, pp. 407–423, 2011.04  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/we.429" data-style="small_rectangle"></span></li>
 
 <li><b>Gain-Scheduled H∞ Control for WECS (Part II)</b><br>
-Muhando et al. IEEE Trans. IE 58(1), 57–65 (2011.01)  
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317"></span></li>
+Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi  </br>
+IEEE Transactions on Industrial Electronics, Vol. 58, No. 1, pp. 57–65, 2011.01  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317" data-style="small_rectangle"></span></li>
 
 <li><b>Gain-Scheduled H∞ Control for WECS (Part I)</b><br>
-Muhando et al. IEEE Trans. IE 58(1), 48–56 (2011.01)  
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317"></span></li>
+Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi  </br>
+IEEE Transactions on Industrial Electronics, Vol. 58, No. 1, pp. 48–56, 2011.01  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317" data-style="small_rectangle"></span></li>
 
 <li><b>Control strategy for a distributed DC power system</b><br>
-Kurohane et al. Renewable Energy 36(1), 42–49 (2011.01)  
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.05.017"></span></li>
+Kyohei Kurohane, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi, Chul-Hwan Kim  </br>
+Renewable Energy, Vol. 36, Issue 1, pp. 42–49, 2011.01  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.05.017" data-style="small_rectangle"></span></li>
 
 <li><b>離島電力系統における負荷電力推定を用いた蓄電池併設型風力発電</b><br>
-上原明恵 他 IEEJ Trans, 130(12), 1039–1048 (2010.12)  
-<span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.130.1039"></span></li>
+上原 明恵, 安里 文吾, 與那 篤史, 浦崎 直光, 千住 智信, 舟橋 俊久  </br>
+IEEJ Transactions on Electrical and Electronic Engineering, 130, 12, pp. 1039–1048, 2010.12  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.130.1039" data-style="small_rectangle"></span></li>
 
 <li><b>Optimal voltage control in distribution systems</b><br>
-Oshiro et al. Renewable Energy 32(10),1125–1134 (2010.12)  
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2010.06.010"></span></li>
+Masato Oshiro, Kenichi Tanaka, Akie Uehara, Tomonobu Senjyu, Yoshitaka Miyazato, Atsushi Yona, Toshihisa Funabashi  </br>
+Renewable Energy, Vol. 32, Issue 10, pp. 1125–1134, 2010.12  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2010.06.010" data-style="small_rectangle"></span></li>
 
 <li><b>Output power dispatch control for a wind farm</b><br>
-Uehara et al. Wind Energy 13(7),671–684 (2010.10)  
-<span class="__dimensions_badge_embed__" data-doi="10.1002/we.388"></span></li>
+Akie Uehara, Tomonobu Senjyu, Toshiaki Kaneko, Atsushi Yona, Endusa Billy Muhando, Naomitsu Urasaki, Chul-Hwan Kim  </br>
+Wind Energy, Vol. 13, Issue 7, pp. 671–684, 2010.10  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/we.388" data-style="small_rectangle"></span></li>
 
 <li><b>Torsional torque suppression of decentralized generators</b><br>
-Omine et al. Renewable Energy 35(9),1908–1913 (2010.09)  
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.01.017"></span></li>
+Eitaro Omine, Tomonori Goya, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi  </br>
+Renewable Energy, Vol. 35, Issue 9, pp. 1908–1913, 2010.09  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.01.017" data-style="small_rectangle"></span></li>
 
 <li><b>A Frequency Control Method by Wind Farm & Battery</b><br>
-Uehara et al. IJEEPS 11(2) (2010.03)  
-<span class="__dimensions_badge_embed__" data-doi="10.2202/1553-779X.2419"></span></li>
+Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi  </br>
+International Journal of Emerging Electric Power Systems, Vol. 11, Issue 2, Article 2, 2010.03  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.2202/1553-779X.2419" data-style="small_rectangle"></span></li>
 
 <li><b>Output power control for large wind penetration</b><br>
-Senjyu et al. Renewable Energy 34(11),2334–2343 (2009.11)  
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2009.04.004"></span></li>
+Tomonobu Senjyu, Toshiaki Kaneko, Akie Uehara, Atsushi Yona, Hideomi Sekine, Chul-Hwan Kim  </br>
+Renewable Energy, Vol. 34, Issue 11, pp. 2334–2343, 2009.11  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2009.04.004" data-style="small_rectangle"></span></li>
 
 <li><b>LQG Design for Megawatt-Class WECS</b><br>
-Muhando et al. IEEE TEC 24(4),893–904 (2009.09)  
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2009.2025338"></span></li>
+Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi, Chul-Hwan Kim  </br>
+IEEE Transactions on Energy Conversion, Vol. 24, No. 4, pp. 893–904, 2009.09  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2009.2025338" data-style="small_rectangle"></span></li>
 
 <li><b>風力発電システムにおける風車と蓄電池の協調制御</b><br>
-千住智信 他 IEEJ Trans 129(5),653–660 (2009.05)  
-<span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.129.653"></span></li>
+千住 智信, 菊永 康朗, 徳留 元樹, 上原 明恵, 舟橋 俊久  </br>
+IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–660, 2009.05  </br>
+<span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.129.653" data-style="small_rectangle"></span></li>
 
 </ol>
 
@@ -170,7 +183,7 @@ Takuka Ishibashi, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu S
 <b>MPC-based Optimal Operation of Smart City Considering Multi Energy Storage</b><br>
 Takuma Ishibashi, Akie Uehara, Narayanan Krichna, Ashraf M. Hemeida, Hiroshi Takahashi, Tomonobu Senjyu<br>
 13th International Conference on Renewable Energy Research and Applications (ICRERA 2024), 249, 2024.11<br>
-DOI: <http://dx.doi.org/10.1109/ICRERA62673.2024.10815324>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICRERA62673.2024.10815324" data-style="small_rectangle"></span></li>
 </li>
 
 <li>
