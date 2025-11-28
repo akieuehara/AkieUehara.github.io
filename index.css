@@ -486,19 +486,24 @@ footer {
   background-color: #ccc;
 }
 
-/* ============================
-  <ol> を番号表示に戻す設定
-   ============================ */
+/* ==========================================================
+   ★ <ol> を番号で表示し、降順（start＋reversed）を有効化
+   ========================================================== */
 ol {
-    list-style-type: decimal !important;
-    margin-left: 1.4em;
+    list-style: decimal !important;
+    padding-left: 1.5em !important;
+}
+
+ol li {
+    list-style: decimal !important;
 }
 
 ol[reversed] {
-    list-style-type: decimal !important;
+    list-style: decimal !important;
 }
 
-ol li::marker {
-    font-weight: bold;  /* 任意：番号を太字に見やすく */
+ol[reversed] li::marker {
+    font-weight: bold;
 }
+
 
