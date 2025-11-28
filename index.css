@@ -518,39 +518,34 @@ h2, h3, h4 {
     color: #000 !important;
 }
 
-/* ==============================
-   🔥 スマホ最適化（表示改善版）
-   ============================== */
-@media (max-width: 768px) {
+/* =============================
+   📱スマホ表示の文字サイズを更に拡大
+   ============================= */
+@media (max-width: 600px) {
 
-    /* 文字サイズを大きくして可読性UP */
     body {
-        font-size: 18px !important;
-        line-height: 1.9;
+        font-size: 21px !important;  /* ← 18px → 21pxにアップ */
+        line-height: 1.95;
     }
 
-    h1 { font-size: 22px !important; }
-    h2 { font-size: 20px !important; }
-    li, p { font-size: 18px !important; }
-
-    /* 横スクロール防止（最重要）*/
-    html, body {
-        overflow-x: hidden;
-        width: 100%;
+    p, li, div, span {
+        font-size: 20px !important;
+        line-height: 1.95;
     }
 
-    /* 📌 コンテンツが画面幅いっぱいに収まるよう調整 */
+    h1 { font-size: 27px !important; }
+    h2 { font-size: 24px !important; }
+    h3 { font-size: 22px !important; }
+
+    /* 連絡先やプロフィール文の読みやすさアップ */
+    .contact-text {
+        font-size: 20px !important;
+        line-height: 2.0;
+    }
+
+    /* 📌 文字が左に寄りすぎる場合は余白調整 */
     #content-wrapper {
-        margin-left: 0 !important;
-        padding: 14px !important;
-        max-width: 100% !important;
-        width: 100% !important;
-        box-sizing: border-box;
-    }
-
-    /* 📌 サイドバーはスマホでは非表示（推奨） */
-    #sidebar {
-        display: none !important;
+        padding: 18px;
     }
 }
 
