@@ -27,13 +27,7 @@ body {
 }
 .nav a { font-weight: bold; text-decoration: none; }
 
-/* モバイル調整 */
-@media screen and (max-width: 768px) {
-  #head-inner { padding: 20px 0; }
-  #inner      { padding: 20px 0 0; }
-  h1 { font-size: 22px; }
-  .nav a { font-size: 14px; line-height: 1.8; }
-}
+
 
 header {
 	background-color: #214555;
@@ -281,17 +275,6 @@ h4 {
 /* -------------------------
    スマホ用折りたたみ
 ------------------------- */
-@media (max-width: 768px) {
-
-  /* 左サイドバー → 上に移動 */
-  #sidebar {
-    width: 100%;
-    height: auto;
-    position: fixed;
-    top: 0;
-    left: 0;
-    padding: 0;
-  }
 
   /* ハンバーガーヘッダ */
   .mobile-header {
@@ -521,12 +504,7 @@ h2, h3, h4 {
 /* =============================
    📱スマホ表示の文字サイズを更に拡大
    ============================= */
-@media (max-width: 600px) {
 
-    body {
-        font-size: 21px !important;  /* ← 18px → 21pxにアップ */
-        line-height: 1.95;
-    }
 
     p, li, div, span {
         font-size: 20px !important;
