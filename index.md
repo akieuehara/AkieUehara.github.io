@@ -49,6 +49,12 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 **代表論文：**
 
+- **An integrated control method for a wind farm to reduce frequency deviations**  
+  *Applied Energy, 88(4), 1049-1058 - April 2011*  
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.1016/j.apenergy.2010.09.024"
+        data-style="small_rectangle"></span>  
+
 - **A Coordinated Control Method to Smooth Wind Power Fluctuations of a PMSG-Based WECS**  
   *IEEE Transactions on Energy Conversion, 26(2), 550-558 - March 2011*  
   <span class="__dimensions_badge_embed__"
@@ -59,24 +65,18 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
   *International Journal of Emerging Electric Power Systems, 11(2) - March 2010*  
   <span class="__dimensions_badge_embed__"
         data-doi="10.2202/1553-779X.2419"
-        data-style="small_rectangle"></span>  
-
-- **Frequency control by coordination control of WTG and battery using load estimation**  
-  *2009 International Conference on Power Electronics and Drive Systems (PEDS), 216-221 - November 2009*  
-  <span class="__dimensions_badge_embed__"
-        data-doi="10.1109/PEDS.2009.5385765"
-        data-style="small_rectangle"></span>  
-
-- **An integrated control method for a wind farm to reduce frequency deviations**  
-  *Applied Energy, 88(4), 1049-1058 - April 2011*  
-  <span class="__dimensions_badge_embed__"
-        data-doi="10.1016/j.apenergy.2010.09.024"
-        data-style="small_rectangle"></span>  
-
+        data-style="small_rectangle"></span>
+  
 - **Output power dispatch control for a wind farm**  
   *Wind Energy, 13(7), 671-684 - March 2010*  
   <span class="__dimensions_badge_embed__"
         data-doi="10.1002/we.388"
+        data-style="small_rectangle"></span>
+  
+- **Frequency control by coordination control of WTG and battery using load estimation**  
+  *2009 International Conference on Power Electronics and Drive Systems (PEDS), 216-221 - November 2009*  
+  <span class="__dimensions_badge_embed__"
+        data-doi="10.1109/PEDS.2009.5385765"
         data-style="small_rectangle"></span>  
 
 
