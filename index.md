@@ -80,7 +80,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
         data-style="small_rectangle"></span>  
 
 
-[出版物リストはこちら](publications)  
+[出版物リストはこちら](publications.md)  
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
