@@ -316,42 +316,42 @@ International Conference of Renewable Energy 2010, O-Wd-2-4, 2010.06–07
 <b>A Hybrid Smart AC/DC Power System</b><br>
 Kyohei Kurohane, Tomonobu Senjyu, Akie Uehara, Atsushi Yona, Toshihisa Funabashi<br>
 2010 5th IEEE Conference on Industrial Electrical and Applications, WeM5.19, P0279, pp. 764–769, 2010.06<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/ICIEA.2010.5516936>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICIEA.2010.5516936" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Study on Optimum Operation Planning of Wind Farm/Battery System using Forecasted Generated Power Data</b><br>
 Akie Uehara, Tomonobu Senjyu, Yasuaki Kikunaga, Bungo Asato, Atsushi Yona, Toshihisa Funabashi<br>
 The 8th International Conference on Power Electronics and Drive Systems, No. 361, 2009.11<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385766>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385766" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Frequency Regulation by Coordination Control of Wind Turbine Generator and Battery using Load Estimation</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi<br>
 The 8th International Conference on Power Electronics and Drive Systems, No. 360, 2009.11<br>
-<span class="__dimensions_badge_embed__" data-doi="[10.1109/PEDS.2009.5385765](https://doi.org/10.1109/peds.2009.5385765)>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/PEDS.2009.5385765" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Addressing Grid Integration Issues for DFIG-Based WECS via Multiobjective H1 Paradigm</b><br>
 Endusa Billy Muho, Tomonobu Senjyu, Akie Uehara, Chul-Hwan Kim<br>
 IEEE T&D Asia Conference and Exposition 2009, PO3-7, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356871>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356871" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Smoothing Control of Generated Power Fluctuation of WTG using Gain-Scheduled Control</b><br>
 Tomonobu Senjyu, Akie Uehara, Yasuaki Kikunaga, Bungo Asato, Atsushi Yona, Toshihisa Funabashi, Chul-Hwan Kim<br>
 IEEE T&D Asia Conference and Exposition 2009, OR9-3, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356948>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356948" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Frequency Control by Coordination Control of Wind Turbine Generator and Battery using H∞ Control</b><br>
 Tomonobu Senjyu, Akie Uehara, Atsushi Yona, Toshihisa Funabashi<br>
 IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1109/TD-ASIA.2009.5356848>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1109/TD-ASIA.2009.5356848" data-style="small_rectangle"></span>
 </li>
 
 </ol>
