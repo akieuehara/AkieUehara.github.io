@@ -1,4 +1,4 @@
----
+<img width="342" height="80" alt="image" src="https://github.com/user-attachments/assets/45a58e21-7051-494a-b06c-b5a47cc19013" />---
 layout: default
 title: "Publication"
 ---
@@ -20,6 +20,28 @@ title: "Publication"
   </li>
 
 <li>
+  <b>Multi-objective optimization of hybrid renewable energy system for recirculating aquaculture system in Kenyan highlands</b><br>
+  Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu<br>
+  Energy Conversion and Management, Vol. 345, 1, 120350, 2025.12<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350" data-style="small_rectangle"></span>
+  </li>
+
+<li>
+  <b>Harnessing buoyancy for scalable and sustainable energy storage</b><br>
+  Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu<br>
+  Energy Conversion and Management, Vol. 344, 15, 120135, 2025.11<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135" data-style="small_rectangle"></span></li>
+
+
+<li>
+  <b>Indirect Adaptive Polynomial Wavelet-Based Neuro-Fuzzy Controller for STATCOM-Equipped Power Systems</b><br>
+  Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu<br>
+  IEEE Open Journal of Power Electronics, Vol. 6, pp. 1896–1909, 2025.10<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288" data-style="small_rectangle"></span>
+  </li>
+
+
+<li>
   <b>Soft Computing based Damping Controllers with Online Parameters Tuning for Stability Enhancement of Power Systems</b><br>
   Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada<br>
   IEEE Access, Vol. 13, pp. 167045–167060, 2025.09<br>
@@ -33,35 +55,22 @@ title: "Publication"
   <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3604097" data-style="small_rectangle"></span>
   </li>
 
-<li>
-  <b>Multi-objective optimization of hybrid renewable energy system for recirculating aquaculture system in Kenyan highlands</b><br>
-  Jane Wambui Chege, Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Narayaran Krishnan, Tomonobu Senjyu<br>
-  Energy Conversion and Management, Vol. 345, 1, 120350, 2025.12<br>
-  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120350" data-style="small_rectangle"></span>
-  </li>
-
-<li>
-  <b>Harnessing buoyancy for scalable and sustainable energy storage</b><br>
-  Yongyi Huang, Junchao Cheng, Xunyu Liang, Minliang Teng, Akie Uehara, Fengjun Chen, Yicheng Zhou, Tomonobu Senjyu<br>
-  Energy Conversion and Management, Vol. 344, 15, 120135, 2025.11<br>
-  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120135" data-style="small_rectangle"></span></li>
-
 <li><b>Optimal capacity of renewable energy and methanation system in a remote island model considering frequency fluctuation</b><br>
 Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Ahmed Rashwan, Ashraf Mohamed Hemeida, Tomonobu Senjyu<br>
 International Journal of Emerging Electric Power Systems, 2025.07<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1515/ijeeps-2025-0110" data-style="small_rectangle"></span></li>
 
-<li><b>Optimization of PV and battery systems in university campuses</b><br>
+<li><b>Optimization of PV and battery systems in university campuses: A combined planning and operation approach under uncertainties</b><br>
 Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Narayanan Krishnan, Ashraf M. Hemeida, Tomonobu Senjyu<br>
 Energy and Buildings, Vol. 335, 115512, 2025.05  <br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2025.115512" data-style="small_rectangle"></span></li>
 
-<li><b>Enhancing Smart Microgrid Resilience and Virtual Power Plant Profitability</b><br>
+<li><b>Enhancing Smart Microgrid Resilience and Virtual Power Plant Profitability Through Hybrid IGWO-PSO Optimization With a Three-Phase Bidding Strategy</b><br>
 T. Yuvaraj, T. Sengolrajan, Natarajan Prabaharan, K. R. Devabalaji, Akie Uehara, Tomonobu Senjyu<br>
 IEEE Access, Vol. 13, 80796–8082, 2025.04<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3565460" data-style="small_rectangle"></span></li>
 
-<li><b>Optimal energy management strategy for electric vehicles and electricity distribution system</b><br>
+<li><b>Optimal energy management strategy for electric vehicles and electricity distribution system based on quantile deep learning with enhanced African vulture optimization</b><br>
 Dineshkumar Selvaraj, Senthilnathan Nattuthurai, Akie Uehara, Tomonobu Senjyu<br>
 Energy Reports, Vol. 12, 631–655, 2024.12<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2024.06.016" data-style="small_rectangle"></span></li>
@@ -71,82 +80,82 @@ Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hasan Masrur, Ahmed Rashwan, 
 Sustainable Cities and Society, Vol. 114, 105759, 2024.11<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.scs.2024.105759" data-style="small_rectangle"></span></li>
 
-<li><b>MPC-based robust optimization of smart apartment building</b><br>
+<li><b>MPC-based robust optimization of smart apartment building considering uncertainty for conservative reduction</b><br>
 Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Alexey Mikhaylov, Paras Mandal, Tomonobu Senjyu<br>
 Energy and Buildings, Vol. 318, 114461, 2024.09<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2024.114461" data-style="small_rectangle"></span></li>
 
-<li><b>A robust H∞ controller based frequency control approach</b><br>
+<li><b>A robust  H∞ controller based frequency control approach using the wind-battery coordination strategy in a small power system</b><br>
 Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasak, Tomonobu Senjyu, Ahmed Yousuf Saber<br>
 International Journal of Electrical Power & Energy Systems, Vol. 58, pp. 190–198, 2014.06<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2014.01.024" data-style="small_rectangle"></span></li>
 
-<li><b>A minimal order observer based frequency control strategy</b><br>
+<li><b>A minimal order observer based frequency control strategy for an integrated wind-battery-diesel power system</b><br>
 Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasaki, Tomonobu Senjyu, Atsushi Yona<br>
 Energy, Vol. 46, Issue 1, pp. 168–178, 2012.10<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.energy.2012.08.039" data-style="small_rectangle"></span></li>
 
-<li><b>A Coordinated Control Method to Smooth Wind Power Fluctuations</b><br>
+<li><b>A Coordinated Control Method to Smooth Wind Power Fluctuations of a PMSG-Based WECS</b><br>
 Akie Uehara, Alok Pratap, Tomonori Goya, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi<br>
 IEEE Transactions on Energy Conversion, Vol. 26, No. 2, pp. 550–558, 2011.06<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2011.2107912" data-style="small_rectangle"></span></li>
 
-<li><b>An integrated control method for a wind farm</b><br>
+<li><b>An integrated control method for a wind farm to reduce frequency deviations in a small power system</b><br>
 Toshiaki Kaneko, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki<br>
 Applied Energy, Vol. 88, Issue 4, pp. 1049–1058, 2011.04<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024" data-style="small_rectangle"></span></li>
 
-<li><b>A New Control Methodology of Wind Turbine Generators</b><br>
+<li><b>A New Control Methodology of Wind Turbine Generators for Frequency Control of Power System in Isolated Island</b><br>
 Toshiaki Kaneko, Akie Uehara, Atsushi Yona, Tomonobu Senjyu, Chul-Hwan Kim<br>
 Wind Energy, Vol. 14, Issue 3, pp. 407–423, 2011.04<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1002/we.429" data-style="small_rectangle"></span></li>
 
-<li><b>Gain-Scheduled H∞ Control for WECS (Part II)</b><br>
+<li><b>Gain-Scheduled H∞ Control for WECS via LMI Techniques and Parametrically-Dependent Feedback Part II: Controller Design and Implementation</b><br>
 Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi<br>
 IEEE Transactions on Industrial Electronics, Vol. 58, No. 1, pp. 57–65, 2011.01<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317" data-style="small_rectangle"></span></li>
 
-<li><b>Gain-Scheduled H∞ Control for WECS (Part I)</b><br>
+<li><b>Gain-Scheduled H∞ Control for WECS via LMI Techniques and Parametrically-Dependent Feedback Part I: Model Development Fundamentals</b><br>
 Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi<br>
 IEEE Transactions on Industrial Electronics, Vol. 58, No. 1, pp. 48–56, 2011.01<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TIE.2010.2045317" data-style="small_rectangle"></span></li>
 
-<li><b>Control strategy for a distributed DC power system</b><br>
+<li><b>Control strategy for a distributed DC power system with renewable energy</b><br>
 Kyohei Kurohane, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi, Chul-Hwan Kim<br>
 Renewable Energy, Vol. 36, Issue 1, pp. 42–49, 2011.01<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.05.017" data-style="small_rectangle"></span></li>
 
-<li><b>離島電力系統における負荷電力推定を用いた蓄電池併設型風力発電</b><br>
+<li><b>離島電力系統における負荷電力推定を用いた蓄電池併設型風力発電システムによる周波数制御法</b><br>
 上原 明恵, 安里 文吾, 與那 篤史, 浦崎 直光, 千住 智信, 舟橋 俊久<br>
 IEEJ Transactions on Electrical and Electronic Engineering, 130, 12, pp. 1039–1048, 2010.12  <br>
 <span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.130.1039" data-style="small_rectangle"></span></li>
 
-<li><b>Optimal voltage control in distribution systems</b><br>
+<li><b>Optimal voltage control in distribution systems with coordination of distribution installations</b><br>
 Masato Oshiro, Kenichi Tanaka, Akie Uehara, Tomonobu Senjyu, Yoshitaka Miyazato, Atsushi Yona, Toshihisa Funabashi<br>
 Renewable Energy, Vol. 32, Issue 10, pp. 1125–1134, 2010.12<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2010.06.010" data-style="small_rectangle"></span></li>
 
-<li><b>Output power dispatch control for a wind farm</b><br>
+<li><b>Output power dispatch control for a wind farm in a small power system</b><br>
 Akie Uehara, Tomonobu Senjyu, Toshiaki Kaneko, Atsushi Yona, Endusa Billy Muhando, Naomitsu Urasaki, Chul-Hwan Kim<br>
 Wind Energy, Vol. 13, Issue 7, pp. 671–684, 2010.10<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1002/we.388" data-style="small_rectangle"></span></li>
 
-<li><b>Torsional torque suppression of decentralized generators</b><br>
+<li><b>Torsional torque suppression of decentrailed generators using H∞ observer</b><br>
 Eitaro Omine, Tomonori Goya, Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Naomitsu Urasaki, Toshihisa Funabashi<br>
 Renewable Energy, Vol. 35, Issue 9, pp. 1908–1913, 2010.09<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2010.01.017" data-style="small_rectangle"></span></li>
 
-<li><b>A Frequency Control Method by Wind Farm & Battery</b><br>
+<li><b>A Frequency Control Method by Wind Farm & Battery using Load Estimation in Isolated Power System</b><br>
 Akie Uehara, Tomonobu Senjyu, Atsushi Yona, Toshihisa Funabashi<br>
 International Journal of Emerging Electric Power Systems, Vol. 11, Issue 2, Article 2, 2010.03<br>
 <span class="__dimensions_badge_embed__" data-doi="10.2202/1553-779X.2419" data-style="small_rectangle"></span></li>
 
-<li><b>Output power control for large wind penetration</b><br>
+<li><b>Output power control for large wind power penetration in small power system</b><br>
 Tomonobu Senjyu, Toshiaki Kaneko, Akie Uehara, Atsushi Yona, Hideomi Sekine, Chul-Hwan Kim<br>
 Renewable Energy, Vol. 34, Issue 11, pp. 2334–2343, 2009.11<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2009.04.004" data-style="small_rectangle"></span></li>
 
-<li><b>LQG Design for Megawatt-Class WECS</b><br>
+<li><b>LQG Design for Megawatt-Class WECS with DFIG Based on Functional Model’s Fidelity Prerequisites</b><br>
 Endusa Billy Muhando, Tomonobu Senjyu, Akie Uehara, Toshihisa Funabashi, Chul-Hwan Kim<br>
 IEEE Transactions on Energy Conversion, Vol. 24, No. 4, pp. 893–904, 2009.09<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TEC.2009.2025338" data-style="small_rectangle"></span></li>
@@ -479,7 +488,7 @@ Soichiro Ueda, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 </li>
 
 <li>
-<b>Grid-Formingインバータの送電線故障時における動的電圧安定性</b><br>
+<b>Grid-Formingインバータの送電線故障時における過電流抑制手法の検討</b><br>
 溝口 裕之，古栫 雅裕，上原 明恵，高橋 弘，千住 智信<br>
 2024年度第77回電気・情報通信関係学会九州支部連合大会講演論文集, 02-1A-05, pp.16–17, 2024.09
 </li>
