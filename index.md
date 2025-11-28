@@ -35,6 +35,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## リンク / Links
 
+- [Web of Science](https://www.webofscience.com/wos/author/record/KIL-1742-2024)
 - [Google Scholar](https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/)
 - [ORCID](https://orcid.org/0009-0002-2724-3638)
 - [Researchmap](https://researchmap.jp/uehara_a)
