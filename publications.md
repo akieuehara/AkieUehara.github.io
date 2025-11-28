@@ -351,7 +351,7 @@ IEEE T&D Asia Conference and Exposition 2009, OR9-3, 2009.10<br>
 <b>Frequency Control by Coordination Control of Wind Turbine Generator and Battery using H∞ Control</b><br>
 Tomonobu Senjyu, Akie Uehara, Atsushi Yona, Toshihisa Funabashi<br>
 IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356848>" data-style="small_rectangle"></span>
+<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1109/TD-ASIA.2009.5356848>" data-style="small_rectangle"></span>
 </li>
 
 </ol>
