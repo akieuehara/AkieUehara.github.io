@@ -57,7 +57,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 | An integrated control method for a wind farm to reduce frequency deviations *(Applied Energy 2011)* | <span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024" data-style="small_rectangle"></span> |
 | Output power dispatch control for a wind farm *(Wind Energy 2010)* | <span class="__dimensions_badge_embed__" data-doi="10.1002/we.388" data-style="small_rectangle"></span> |
 
-**→ 全論文はこちら** → [publications.md](publications.md)
+[全論文はこちら](publications.md)
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
