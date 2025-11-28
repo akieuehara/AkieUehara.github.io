@@ -501,29 +501,28 @@ h2, h3, h4 {
     color: #000 !important;
 }
 
-/* =============================
-   📱スマホ表示の文字サイズを更に拡大
-   ============================= */
+/* スマホ用フォント & 行間 調整版 */
+@media screen and (max-width: 600px){
 
-
-    p, li, div, span {
-        font-size: 20px !important;
-        line-height: 1.95;
+    html, body {
+        font-size: 19px !important;   /* ← 22 → 19px に自然な縮小 */
+        line-height: 1.85 !important; /* ← 行間も詰めて読みやすく */
     }
 
-    h1 { font-size: 27px !important; }
-    h2 { font-size: 24px !important; }
-    h3 { font-size: 22px !important; }
-
-    /* 連絡先やプロフィール文の読みやすさアップ */
-    .contact-text {
-        font-size: 20px !important;
-        line-height: 2.0;
+    p, li, span, div, section {
+        font-size: 18px !important;
+        line-height: 1.85 !important;
     }
 
-    /* 📌 文字が左に寄りすぎる場合は余白調整 */
+    h1 { font-size: 26px !important; }
+    h2 { font-size: 22px !important; }
+    h3 { font-size: 20px !important; }
+
     #content-wrapper {
-        padding: 18px;
+        margin: 0 auto !important;
+        padding: 18px !important;     /* 左右の余白は確保 */
+        width: calc(100% - 36px) !important;
     }
 }
+
 
