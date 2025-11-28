@@ -1,4 +1,4 @@
-<img width="342" height="80" alt="image" src="https://github.com/user-attachments/assets/45a58e21-7051-494a-b06c-b5a47cc19013" />---
+---
 layout: default
 title: "Publication"
 ---
