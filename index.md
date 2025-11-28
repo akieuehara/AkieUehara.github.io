@@ -41,7 +41,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - [Researchmap](https://researchmap.jp/uehara_a)
 - [ResearchGate](https://www.researchgate.net/profile/Akie-Uehara/research)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26423385600)
-- [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.010532112043.18)
+- [Dimensions](https://app.dimensions.ai/details/entities/publication/author/ur.010532112043.18)  
 
 ---
 
@@ -57,7 +57,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 | An integrated control method for a wind farm to reduce frequency deviations *(Applied Energy 2011)* | <span class="__dimensions_badge_embed__" data-doi="10.1016/j.apenergy.2010.09.024" data-style="small_rectangle"></span> |
 | Output power dispatch control for a wind farm *(Wind Energy 2010)* | <span class="__dimensions_badge_embed__" data-doi="10.1002/we.388" data-style="small_rectangle"></span> |
 
-[全論文はこちら](publications.md)
+[全論文はこちら](publications.md)  
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
@@ -67,7 +67,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
-
+  
 ---
 
 ## 受賞 / Award
@@ -95,7 +95,8 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 参画方法：研究代表者  
 事業名：財団法人東電記念科学技術研究所（平成21年度国際技術交流援助）  
 期間：2009年11月1日～6日（第8回パワーエレクトロニクス・ドライブシステム国際会議）  
-連携研究者：-  
+連携研究者：-
+  
 ---
 
 ## 学会・コミュニティ活動 / Society and Community
@@ -109,7 +110,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 社会活動：
 - 沖縄県クリーンエネルギー共創会議　
 - 令和7年度沖縄型クリーンエネルギー導入促進調査事業　第三者検討委員会
-
+  
 ---
 
 ## プロフィール / Profile
@@ -122,7 +123,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 2005年04月 - 2009年03月 琉球大学工学部 電気電子工学科
 
 [博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
-
+  
 ### 資格
 
 - 電気主任技術者（第2種）
