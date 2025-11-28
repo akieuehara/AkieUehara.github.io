@@ -2,14 +2,15 @@
 <html>
 <head>
   <meta charset="utf-8">
+
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/index.css">
+  <link rel="stylesheet" href="{{ '/index.css' | relative_url }}">
 </head>
 <body>
 
   {{ content }}
 
-  <!-- 🚀←これが重要 new tab機能のJS -->
-  <script src="/assets/js/open_external.js"></script>
+  <!-- 🔥 重要：relative_urlでurl崩壊を防ぐ -->
+  <script src="{{ '/assets/js/open_external.js' | relative_url }}"></script>
 </body>
 </html>
