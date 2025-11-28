@@ -76,7 +76,7 @@ Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Alexey Mikhaylov, Paras Mandal
 Energy and Buildings, Vol. 318, 114461, 2024.09<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enbuild.2024.114461" data-style="small_rectangle"></span></li>
 
-<li><b>A robust controller H-infinity based frequency control approach</b><br>
+<li><b>A robust H∞ controller based frequency control approach</b><br>
 Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasak, Tomonobu Senjyu, Ahmed Yousuf Saber<br>
 International Journal of Electrical Power & Energy Systems, Vol. 58, pp. 190–198, 2014.06<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2014.01.024" data-style="small_rectangle"></span></li>
@@ -334,7 +334,7 @@ The 8th International Conference on Power Electronics and Drive Systems, No. 360
 </li>
 
 <li>
-<b>Addressing Grid Integration Issues for DFIG-Based WECS via Multiobjective H1 Paradigm</b><br>
+<b>Addressing Grid Integration Issues for DFIG-Based WECS via Multiobjective H∞ Paradigm</b><br>
 Endusa Billy Muho, Tomonobu Senjyu, Akie Uehara, Chul-Hwan Kim<br>
 IEEE T&D Asia Conference and Exposition 2009, PO3-7, 2009.10<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TD-ASIA.2009.5356871" data-style="small_rectangle"></span>
