@@ -20,15 +20,17 @@ layout: default
 
 ---
 
+
 ## 連絡先 / Contact Address
 
 〒903-0213  
 沖縄県中頭郡西原町字千原1番地  
 琉球大学 工学部 電気システム工学コース  
 
-📧 **uehara_a@cs.u-ryukyu.ac.jp**
+e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
+
 
 ## リンク / Links
 
