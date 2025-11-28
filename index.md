@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Home"
+title: "Akie Uehara"
 ---
-# 上原 明恵 / **Akie Uehara**
+# 上原 明恵 / Akie Uehara
 
 ---
 
@@ -84,13 +84,13 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 研究費・プロジェクト / Projects
 
-- **離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討**  
+- 離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討  
 参画方法：研究代表者  
 事業名：令和7年度 沖縄イノベーション・エコシステム共同研究推進事業委託業務及び同補助金  
 期間：2025年07月 - 2026年02月  
 連携研究者：沖縄電力株式会社  
 
-- **Frequency Control by Coordination Control of Wind Turbine Generator and Battery using Load Estimation in Isolated Island**
+- Frequency Control by Coordination Control of Wind Turbine Generator and Battery using Load Estimation in Isolated Island  
 参画方法：研究代表者  
 事業名：財団法人東電記念科学技術研究所（平成21年度国際技術交流援助）  
 期間：2009年11月1日～6日（第8回パワーエレクトロニクス・ドライブシステム国際会議）  
@@ -106,7 +106,8 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 電気設備学会  正員
 - IEEE Member  
 
-社会活動：
+**社会活動：**  
+
 - 沖縄県クリーンエネルギー共創会議　
 - 令和7年度沖縄型クリーンエネルギー導入促進調査事業　第三者検討委員会
   
@@ -123,7 +124,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 [博士論文（琉球大学リポジトリ）](https://u-ryukyu.repo.nii.ac.jp/records/2019046)
   
-### 資格
+**資格：**  
 
 - 電気主任技術者（第2種）
 - エネルギー管理士（電気）
