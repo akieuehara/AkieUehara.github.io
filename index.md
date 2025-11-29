@@ -6,7 +6,7 @@ title: "Akie Uehara"
 
 ---
 
-## 研究分野 / Research Field
+## 研究分野 / Research Fields
 
 電力系統の安定運用に関する研究を行っています。  
 電力系統工学，再生可能エネルギー，制御工学，最適化工学等に興味があります。
@@ -33,7 +33,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 ---
 
 
-## リンク / Link
+## リンク / Links
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/KIL-1742-2024)
 - [Google Scholar](https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/)
@@ -45,7 +45,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 出版物 / Publication
+## 出版物 / Publications
 
 **代表論文：**
 
@@ -79,15 +79,15 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
         data-doi="10.1109/PEDS.2009.5385765"
         data-style="small_rectangle"></span>  
 
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>  
+
 
 
 [出版物リストはこちら](publications.md)  
 
 ---
 
-## 授業 / Course
+## 授業 / Courses
 
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
@@ -96,7 +96,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 受賞 / Award
+## 受賞 / Awards
 
 <ol reversed start="8">
 
@@ -112,7 +112,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 </ol>
 ---
 
-## 研究費・プロジェクト / Project
+## 研究費・プロジェクト / Projects
 
 - 離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討  
 参画方法：研究代表者  
