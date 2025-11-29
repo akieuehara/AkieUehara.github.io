@@ -6,7 +6,7 @@ title: "Akie Uehara"
 
 ---
 
-## 研究分野 / Research Fields
+## 研究分野 / Research Field
 
 電力系統の安定運用に関する研究を行っています。  
 電力系統工学，再生可能エネルギー，制御工学，最適化工学等に興味があります。
@@ -33,7 +33,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 ---
 
 
-## リンク / Links
+## リンク / Link
 
 - [Web of Science](https://www.webofscience.com/wos/author/record/KIL-1742-2024)
 - [Google Scholar](https://scholar.google.jp/citations?user=06S_jV4AAAAJ&hl=ja&oi=ao/)
@@ -45,7 +45,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 出版物 / Publications
+## 出版物 / Publication
 
 **代表論文：**
 
@@ -87,7 +87,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 授業 / Courses
+## 授業 / Course
 
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
@@ -96,7 +96,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ---
 
-## 受賞 / Awards
+## 受賞 / Award
 
 <ol reversed start="8">
 
@@ -112,7 +112,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 </ol>
 ---
 
-## 研究費・プロジェクト / Projects
+## 研究費・プロジェクト / Project
 
 - 離島電力系統における再生可能エネルギー電源主力化に向けた系統運用制約付き発電機起動停止計画手法の検討  
 参画方法：研究代表者  
@@ -130,11 +130,19 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 学会・コミュニティ活動 / Society and Community
 
-- 電気学会  正員
-- 計測自動制御学会　正員  
-- 電子情報通信学会  正員
-- 電気設備学会  正員
-- IEEE Member  
+- [電気学会（IEEJ）　正員](https://www.iee.jp/)
+- [計測自動制御学会（SICE）　正員](https://www.sice.jp/)  
+- [電子情報通信学会（IEICE）　正員](https://www.ieice.org/jpn_r/)
+- [電気設備学会（IEIEJ）　正員](https://www.ieiej.or.jp/)
+- [IEEE Member](https://www.ieee.org/)  
+
+**査読：**  
+
+- [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management)
+- [Energies](https://www.sciencedirect.com/journal/energy-conversion-and-management)
+- [Processes](https://www.mdpi.com/journal/processes)
+- [IEICE Electronics Express](https://www.ieice.org/publications/elex/)  
+
 
 **社会活動：**  
 
