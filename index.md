@@ -139,7 +139,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 **査読：**  
 
 - [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management)
-- [Energies](https://www.sciencedirect.com/journal/energy-conversion-and-management)
+- [Energies](https://www.mdpi.com/journal/energies)
 - [Processes](https://www.mdpi.com/journal/processes)
 - [IEICE Electronics Express](https://www.ieice.org/publications/elex/)  
 
