@@ -47,6 +47,11 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 出版物 / Publication
 
+**出版物リスト：**
+
+[出版物リストはこちら](publications.md)  
+
+
 **代表論文：**
 
 - **An integrated control method for a wind farm to reduce frequency deviations**  
@@ -79,9 +84,6 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
         data-doi="10.1109/PEDS.2009.5385765"
         data-style="small_rectangle"></span>  
 
-
-[出版物リストはこちら](publications.md)  
-
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ---
@@ -91,7 +93,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
 
-[卒業研究などの研究指導はこちら](researchguidance.md)  
+[研究指導はこちら](researchguidance.md)  
 
 ---
 
