@@ -90,7 +90,9 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 - 電力工学実験（4年次・前期）
 - 電気電子基礎実験（2年次・後期）
-  
+
+[卒業研究などの研究指導はこちら](researchguidance.md)  
+
 ---
 
 ## 受賞 / Award
