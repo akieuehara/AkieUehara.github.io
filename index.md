@@ -14,7 +14,7 @@ title: "Akie Uehara"
 制御工学や最適化工学の知識や技術を活用しながら，今後も電力の安定供給に資する研究に取り組んでいきたいと考えています。
 
 **キーワード：**  
-- 需給制御，発電機起動停止計画，スマートグリッド，マイクログリッド  
+- 電力需給制御，発電機起動停止計画，スマートグリッド，マイクログリッド  
 - 可変速風力発電システム，グリッドフォーミングインバータ（GFM）  
 - 適応制御，H∞制御  
 - 強化学習  
@@ -138,7 +138,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - [電気設備学会（IEIEJ）　正員](https://www.ieiej.or.jp/)
 - [IEEE Member](https://www.ieee.org/)  
 
-**査読：**  
+**査読対応：**  
 
 - [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management)
 - [Energies](https://www.mdpi.com/journal/energies)
