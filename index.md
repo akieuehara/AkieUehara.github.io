@@ -19,7 +19,7 @@ title: "Akie Uehara"
 - 適応制御，H∞制御  
 - 強化学習  
 
-[研究指導についてはこちら](researchguidance.md)  
+[学生の皆さんへ：研究指導についてはこちら](researchguidance.md)  
 
 ---
 
