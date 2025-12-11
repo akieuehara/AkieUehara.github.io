@@ -10,7 +10,7 @@ title: "Research Guidance"
 
 ## 学術研究・研究室生活など
 
-研究室生活についての参考となるサイトの一部をご紹介します。
+参考となるサイトの一部をご紹介します。
 
 - [一橋大学 欅先生](https://keyakkie.github.io/keyaki-lab/assignment/)
 - [お茶の水女子大学 伊藤先生](http://itolab.is.ocha.ac.jp/~itot/message/itolabrecruit2017.html)
@@ -20,7 +20,7 @@ title: "Research Guidance"
 
 ---
 
-## 歓迎する学生
+## 当研究室が歓迎する学生
 
 - 電力系統工学，再生可能エネルギー（特に太陽光，風力等），離島の電力供給の課題解決に興味のある方。
 - 研究活動を通じて，専門知識や論理的思考力，課題解決能力，アカデミックライティング能力等を向上させたい方。
