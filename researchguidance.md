@@ -24,7 +24,11 @@ title: "Research Guidance"
 
 - 電力系統工学，再生可能エネルギー（特に太陽光，風力等），離島の電力供給の課題解決に興味のある方。
 - 研究活動を通じて，専門知識や論理的思考力，課題解決能力，アカデミックライティング能力等を向上させたい方。
-- プログラミングに興味がある方。MATLAB/Simulink，CPAT（電力系統統合解析ツール），XTAP（瞬時値解析プログラム）等のシミュレーションツールを多用します。Excel VBAも使います。
+- プログラミングに興味がある方。以下のツールを多用します。
+   - [MATLAB/Simulink](https://jp.mathworks.com/products/matlab.html)
+   - [CPAT（電力系統統合解析ツール）](https://cpat-official.jp/GC0010)
+   - [XTAP（瞬時値解析プログラム）](https://www.xtap.jp/top/)
+   - Excel VBA
 
 ---
 
