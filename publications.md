@@ -13,6 +13,14 @@ title: "Publication"
 <ol reversed start="28">
 
 <li>
+  <b>Advanced Optimization for Sustainable Energy Management: A Case Study of Microgrid Design in Niamey, Niger Using the Transient Search Algorithm</b><br>
+  Issoufou Tahirou Halidou *, M. H. Elkholy, Akie Uehara, Fathia Jombi Kheir, Mitsunaga Kinjo, Tomonobu Senjyu, M. Talaat, Abdoulkader Moussa, Taghreed Said<br>
+  AIMS Energy (preprint)<br>
+  
+  </li>
+
+
+<li>
   <b>Dynamic hybrid energy management for self-sufficient residential microgrids: A flexibility-constrained approach with integration of hybrid backup storage systems</b><br>
   Mahmoud Elkholy, Shoaib Ahmed, M. Talaat, Tomonobu Senjyu, Akie Uehara, Song Dongran, Taghreed Said, Mahmoud M. Gamil, Mohammed Elsayed Lotfy Elsayed Abouzeid<br>
   Journal of Energy Storage, Volume 138, 118745, 2025.12<br>
