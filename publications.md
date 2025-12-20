@@ -10,7 +10,7 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="28">
+<ol reversed start="29">
 
 <li>
   <b>Advanced Optimization for Sustainable Energy Management: A Case Study of Microgrid Design in Niamey, Niger Using the Transient Search Algorithm</b><br>
