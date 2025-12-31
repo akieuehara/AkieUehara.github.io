@@ -4,13 +4,19 @@ title: "Publication"
 ---
 
 # 出版物リスト / Publication  
-（更新日：2025年12月）
+（更新日：2026年1月）
 
 ---
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="29">
+<ol reversed start="31">
+
+<li>
+  <b>Resilience-oriented optimization of a green hydrogen backup system with an integrated electric vehicle charging network using the hippopotamus optimization algorithm in semi-urban areas of Pakistan</b><br>
+  Afaq Ahmad, Tomonobu Senjyu, Shoaib Ahmed, Akie Uehara, Mohammad Sorgul Abdul Rahman, M. Talaat, Dongran Song, M.H. Elkholy<br>
+  Energy Conversion and Management, Volume 350, 120993, 2026<br>
+ </li>
 
 <li>
   <b>Advanced Optimization for Sustainable Energy Management: A Case Study of Microgrid Design in Niamey, Niger Using the Transient Search Algorithm</b><br>
