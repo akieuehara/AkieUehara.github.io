@@ -141,6 +141,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 **査読対応：**  
 
 - [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management)
+- [Technologies](https://www.mdpi.com/journal/technologies)
 - [Sustainability](https://www.mdpi.com/journal/sustainability)
 - [Energies](https://www.mdpi.com/journal/energies)
 - [Processes](https://www.mdpi.com/journal/processes)
