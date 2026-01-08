@@ -21,7 +21,8 @@ title: "Publication"
 <li>
   <b>Advanced Optimization for Sustainable Energy Management: A Case Study of Microgrid Design in Niamey, Niger Using the Transient Search Algorithm</b><br>
   Issoufou Tahirou Halidou *, M. H. Elkholy, Akie Uehara, Fathia Jombi Kheir, Mitsunaga Kinjo, Tomonobu Senjyu, M. Talaat, Abdoulkader Moussa, Taghreed Said<br>
-  AIMS Energy<br>
+  AIMS Energy, Volume 14, Issue 1, pp.47-88, 2026.<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.3934/energy.2026003" data-style="small_rectangle"></span>
   
   </li>
 
