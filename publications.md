@@ -16,6 +16,7 @@ title: "Publication"
   <b>Resilience-oriented optimization of a green hydrogen backup system with an integrated electric vehicle charging network using the hippopotamus optimization algorithm in semi-urban areas of Pakistan</b><br>
   Afaq Ahmad, Tomonobu Senjyu, Shoaib Ahmed, Akie Uehara, Mohammad Sorgul Abdul Rahman, M. Talaat, Dongran Song, M.H. Elkholy<br>
   Energy Conversion and Management, Volume 350, 120993, 2026<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120993" data-style="small_rectangle"></span>
  </li>
 
 <li>
