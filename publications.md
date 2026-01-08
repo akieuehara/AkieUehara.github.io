@@ -10,7 +10,7 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="31">
+<ol reversed start="30">
 
 <li>
   <b>Resilience-oriented optimization of a green hydrogen backup system with an integrated electric vehicle charging network using the hippopotamus optimization algorithm in semi-urban areas of Pakistan</b><br>
