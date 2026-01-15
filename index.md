@@ -140,6 +140,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 **査読対応：**  
 
+- [International Journal of Electrical Power and Energy Systems](https://www.sciencedirect.com/journal/international-journal-of-electrical-power-and-energy-systems)
 - [Energy Conversion and Management](https://www.sciencedirect.com/journal/energy-conversion-and-management)
 - [Technologies](https://www.mdpi.com/journal/technologies)
 - [Sustainability](https://www.mdpi.com/journal/sustainability)
