@@ -430,7 +430,19 @@ IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
 
 ## 国内学会・研究会 / Domestic Conferences  
 
-<ol reversed start="60">
+<ol reversed start="62">
+
+<li>
+<b>MPC-Based Operational Optimization of Smart Cities Considering Real-Time Pricing</b><br>
+Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
+令和7年度電気学会九州支部沖縄支所講演会, OKI-2025-21, pp.96～101, Dec. 17, 2025.
+</li>
+
+<li>
+<b>家庭用ヒートポンプ給湯機およびスマートシティによるデマンドレスポンスを考慮した発電機起動停止計画</b><br>
+比嘉 陸人，山本 慎也，上原 明恵，千住 智信<br>
+令和7年度電気学会九州支部沖縄支所講演会, OKI-2025-15, pp.59～66, Dec. 17, 2025.
+</li>
 
 <li>
 <b>超電導限流器を導入した MTDC システムにおける故障電流抑制</b><br>
