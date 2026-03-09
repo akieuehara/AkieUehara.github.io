@@ -4,7 +4,7 @@ title: "Publication"
 ---
 
 # 出版物リスト / Publication  
-（更新日：2026年1月）
+（更新日：2026年3月）
 
 ---
 
