@@ -16,7 +16,7 @@ title: "Publication"
   <b>Distributed reservoir network pumped storage hydropower using dam–pond clusters: Optimal site selection and operation for enhanced renewable energy integration</b><br>
   Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Narayanan Krishnan, Paras Mandal, Tomonobu Senjyu<br>
   Renewable Energy, Volume 263, 125461, 2026<br>
-  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2026.125" data-style="small_rectangle"></span>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2026.125461" data-style="small_rectangle"></span>
  </li>
 
 
