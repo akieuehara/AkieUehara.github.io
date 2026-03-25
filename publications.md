@@ -15,7 +15,7 @@ title: "Publication"
 <li>
   <b>Distributed reservoir network pumped storage hydropower using dam–pond clusters: Optimal site selection and operation for enhanced renewable energy integration</b><br>
   Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Narayanan Krishnan, Paras Mandal, Tomonobu Senjyu<br>
-  Renewable Energy, Volume 263, 125461, 2026<br>
+  Renewable Energy, Volume 263, 125461, 2026.05<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2026.125461" data-style="small_rectangle"></span>
  </li>
 
@@ -24,14 +24,14 @@ title: "Publication"
 <li>
   <b>Resilience-oriented optimization of a green hydrogen backup system with an integrated electric vehicle charging network using the hippopotamus optimization algorithm in semi-urban areas of Pakistan</b><br>
   Afaq Ahmad, Tomonobu Senjyu, Shoaib Ahmed, Akie Uehara, Mohammad Sorgul Abdul Rahman, M. Talaat, Dongran Song, M.H. Elkholy<br>
-  Energy Conversion and Management, Volume 350, 120993, 2026<br>
+  Energy Conversion and Management, Volume 350, 120993, 2026.01<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.enconman.2025.120993" data-style="small_rectangle"></span>
  </li>
 
 <li>
   <b>Advanced Optimization for Sustainable Energy Management: A Case Study of Microgrid Design in Niamey, Niger Using the Transient Search Algorithm</b><br>
   Issoufou Tahirou Halidou *, M. H. Elkholy, Akie Uehara, Fathia Jombi Kheir, Mitsunaga Kinjo, Tomonobu Senjyu, M. Talaat, Abdoulkader Moussa, Taghreed Said<br>
-  AIMS Energy, Volume 14, Issue 1, pp.47-88, 2026.<br>
+  AIMS Energy, Volume 14, Issue 1, pp.47-88, 2026.01<br>
   <span class="__dimensions_badge_embed__" data-doi="10.3934/energy.2026003" data-style="small_rectangle"></span>
   
   </li>
