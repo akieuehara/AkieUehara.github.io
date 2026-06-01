@@ -53,7 +53,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 **代表論文：**
 
-- **An integrated control method for a wind farm to reduce frequency deviations**  
+- **An integrated control method for a wind farm to reduce frequency deviations in a small power system**  
   *Applied Energy, 88(4), 1049-1058 - April 2011*  
   <span class="__dimensions_badge_embed__"
         data-doi="10.1016/j.apenergy.2010.09.024"
@@ -65,13 +65,13 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
         data-doi="10.1109/TEC.2011.2107912"
         data-style="small_rectangle"></span>  
 
-- **A Frequency Control Method by Wind Farm & Battery using Load Estimation**  
+- **A Frequency Control Method by Wind Farm & Battery using Load Estimation in Isolated Power System**  
   *International Journal of Emerging Electric Power Systems, 11(2) - March 2010*  
   <span class="__dimensions_badge_embed__"
         data-doi="10.2202/1553-779X.2419"
         data-style="small_rectangle"></span>
   
-- **Output power dispatch control for a wind farm**  
+- **Output power dispatch control for a wind farm in a small power system**  
   *Wind Energy, 13(7), 671-684 - March 2010*  
   <span class="__dimensions_badge_embed__"
         data-doi="10.1002/we.388"
