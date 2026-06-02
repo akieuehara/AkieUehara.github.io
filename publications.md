@@ -10,7 +10,22 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="31">
+<ol reversed start="33">
+
+<li>
+  <b>Multi-objective optimal design of integrated electrical and thermal campus energy systems: Simultaneous capacity planning and operation scheduling </b><br>
+  Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Mitsunaga Kinjo, Narayanan Krishnan, Ashraf M. Hemeida, Tomonobu Senjyu<br>
+  Energy Conversion and Management: X, Volume. 31, 101929, 2026.09<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecmx.2026.101929" data-style="small_rectangle"></span>
+ </li>
+
+<li>
+  <b>Long-term thermal power reduction in Okinawa’s island grid: Risk-aware multi-objective optimization of second-life batteries with degradation and circularity assessment</b><br>
+  Jane Chege, Mark Kiptoo, Akie Uehara, Tomonobu Senjyu, M.H. Elkholyu<br>
+  Journal of Energy Storage, Volume 169, 122640, 2026.08<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ecmx.2026.101929" data-style="small_rectangle"></span>
+ </li>
+
 
 <li>
   <b>Distributed reservoir network pumped storage hydropower using dam–pond clusters: Optimal site selection and operation for enhanced renewable energy integration</b><br>
@@ -18,7 +33,6 @@ title: "Publication"
   Renewable Energy, Volume 263, 125461, 2026.05<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.renene.2026.125461" data-style="small_rectangle"></span>
  </li>
-
 
 
 <li>
