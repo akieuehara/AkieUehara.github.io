@@ -21,7 +21,7 @@ title: "Publication"
 
 <li>
   <b>Long-term thermal power reduction in Okinawa’s island grid: Risk-aware multi-objective optimization of second-life batteries with degradation and circularity assessment</b><br>
-  Jane Chege, Mark Kiptoo, Akie Uehara, Tomonobu Senjyu, M.H. Elkholyu<br>
+  Jane Chege, Mark Kiptoo, Akie Uehara, Tomonobu Senjyu, M.H. Elkholy<br>
   Journal of Energy Storage, Volume 169, 122640, 2026.08<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2026.122640" data-style="small_rectangle"></span>
  </li>
