@@ -231,6 +231,7 @@ International Conference on Energy Systems 2026 (ICES-26), #200, Yildiz Technica
 <b>Optimal Energy Management and Blackout Resilience for Land-Based Aquaculture Using PV and Battery Energy Storage</b><br>
 Kein Niijima, Soichiro Ueda, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A75, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503777" data-style="small_rectangle"></span>
 </li>
 
 
@@ -238,6 +239,7 @@ Kein Niijima, Soichiro Ueda, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi,
 <b>PV/BESS Interfaced Fault Tolerant Dual-Input LLC Resonant Converter with VSG Inverter for Land-Based Aquaculture System</b><br>
 Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A73, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503740" data-style="small_rectangle"></span>
 </li>
 
 
@@ -245,6 +247,7 @@ Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi
 <b>Optimal Operation of Smart Cities Integrated with Data Centers and Workload Dispatch</b><br>
 Takuma Ishibashi, Akie Uehara, Masahiro Furukakoi, Ahmed Rashwan, Hiroshi Takahashi, Paras Mandal, Tomonobu Senjyu<br>
 2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A72, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+<span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503726" data-style="small_rectangle"></span>
 </li>
 
 
