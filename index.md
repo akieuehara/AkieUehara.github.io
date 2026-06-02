@@ -122,7 +122,8 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 - 周波数変化率に基づく負荷遮断の最適化    
 参画方法：研究代表者  
 事業名：若手研究  
-期間：2026年4月 - 2028年03月    
+期間：2026年4月 - 2028年03月
+URL：https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K17368/    
 
 
 **外部資金：**  
