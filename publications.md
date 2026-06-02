@@ -196,7 +196,43 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 
 ## 国際会議・シンポジウム / International Conferences  
 
-<ol reversed start="35">
+<ol reversed start="40">
+
+
+<li>
+<b>Operational Optimization of Park-and-Ride EV Charging Stations with Day-Night Multi-Class Minimum Charging Guarantees</b><br>
+Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
+International Conference on Electrical, Computer and Energy Technologies (ICECET 2026), H10 Roma Città, Rome, Rome, Italy, Jul. 6-9, 2026.
+</li>
+
+
+<li>
+<b>PV-Integrated MMC-HVDC System Interconnection with A Cascased Fault Tolerant Dual-Input LLC Resonant DC/DC Converter</b><br>
+Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>
+International Conference on Energy Systems 2026 (ICES-26), #200, Yildiz Technical University, Istanbul, Türkiye, May. 3-6, 2026.
+</li>
+
+
+<li>
+<b>Optimal Energy Management and Blackout Resilience for Land-Based Aquaculture Using PV and Battery Energy Storage</b><br>
+Kein Niijima, Soichiro Ueda, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu Senjyu<br>
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A75, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+</li>
+
+
+<li>
+<b>PV/BESS Interfaced Fault Tolerant Dual-Input LLC Resonant Converter with VSG Inverter for Land-Based Aquaculture System</b><br>
+Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A73, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+</li>
+
+
+<li>
+<b>Optimal Operation of Smart Cities Integrated with Data Centers and Workload Dispatch</b><br>
+Takuma Ishibashi, Akie Uehara, Masahiro Furukakoi, Ahmed Rashwan, Hiroshi Takahashi, Paras Mandal, Tomonobu Senjyu<br>
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A72, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+</li>
+
 
 <li>
 <b>Optimal Sizing and Annual Operation of Stationary Batteries in EV Park-and-Ride Facilities Considering Charge/Discharge Cycles</b><br>
