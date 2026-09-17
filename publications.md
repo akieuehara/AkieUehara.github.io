@@ -228,16 +228,6 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 
 
 <li>
-
-<b>{=html}PV-Integrated MMC-HVDC System Interconnection with A Cascaded Fault Tolerant Dual-Input LLC Resonant DC/DC Converter</b>{=html}<br>{=html}<br>{=html} Lin Myat, Masahiro
-Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>{=html}<br>{=html} 
-International Conference on Energy Systems 2026 (ICES2026), #200, Yildiz Technical University, Istanbul,
-Türkiye, May 3-6, 2026.<br>{=html}
-
-</li>
-
-
-<li>
 <b>A Novel Load Shedding Optimization Method Based on Nodal RoCoF<\b><br>
 Akie Uehara, Masahiro Furukakoi, Akito Nakadomari, Tomonobu Senjyu<br>
 2026 5th International Conference on Power Systems and Electrical Technology (PSET2026), P6416, Osaka, Japan, Aug. 17-21, 2026.
@@ -521,7 +511,86 @@ IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
 
 ## 国内学会・研究会 / Domestic Conferences  
 
-<ol reversed start="62">
+<ol reversed start="75">
+
+<li>
+<b>パークアンドライド型EV充電ステーションにおける停電時の最低保証充電率緩和によるレジリエンス強化の検討</b><br>
+上田 聡一郎, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-154, PSE-26-174, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+<li>
+<b>内部配電力制御による故障電流抑制機能付きVSGインバータと故障対応型デュアル入力LLCコンバータを統合したPV連系電力系統の信頼性向上</b><br>
+LIN MYAT, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-124, PSE-26-144, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+<li>
+<b>負荷優先度に基づく省エネルギー運用を考慮した陸上養殖施設のPV・蓄電池最適運用と停電レジリエンス評価</b><br>
+新嶋 希音, 上田 聡一郎, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-153, PSE-26-173, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+<li>
+<b>データセンタのワークロード連携を考慮した複数のスマートシティにおける協調最適運用</b><br>
+石橋 拓真, 上原 明恵, 千住 智信, 古桁 雅裕, 高橋 弘<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-072, PSE-26-092, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+<li>
+<b>集合住宅における電力・給湯・冷房需要を考慮した統合エネルギーシステムの設備容量および運用最適化</b><br>
+山本 慎也, 古桁 雅裕, 上原 明恵, 千住 智信<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-143, PSE-26-163, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+<li>
+<b>長距離ケーブルで連系される洋上風力発電所の高調波共振抑制フィルタのロバスト設計</b><br>
+古桁 雅裕, 上原 明恵, 山本 慎也, 又吉 秀仁, 千住 智信<br>
+電気学会電力技術・電力系統技術合同研究会, PE-26-105, PSE-26-125, 大阪公立大学 森之宮キャンパス, Sep. 7-8, 2026.
+</li>
+
+
+<li>
+<b>周波数変化率に基づく負荷遮断の最適化に関する基礎検討</b><br>
+上原 明恵, 古桁 雅裕, 仲泊 明捷, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 156, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>停電時レジリエンスを考慮したパークアンドライド型EV充電ステーションの年間運用最適化</b><br>
+上田 聡一郎, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 196, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>データセンタ廃熱利用を考慮したスマートシティの最適運用</b><br>
+石橋 拓真, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 189, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>内部配電力ベクトル制御と仮想インピーダンス型逆相減衰制御を統合したVSGインバータにおける故障電流抑制</b><br>
+LIN MYAT, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 161, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>太陽光発電および蓄電池を用いた陸上養殖施設の最適エネルギー運用と停電レジリエンス評価</b><br>
+新嶋 希音, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 194, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>MPC-PSOを利用した離島マイクログリッドの最適運用</b><br>
+吉田 拓生, 上田 聡一郎, 上原 明恵, 古桁 雅裕, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 168, Sep. 16-18, 2026.
+</li>
+
+<li>
+<b>線形化手法を用いたスマートアパートにおける給湯システムの最適容量および最適運用に関する検討</b><br>
+山本 慎仲, 石橋 拓真, 古桁 雅裕, 上原 明恵, 高橋 弘, 千住 智信<br>
+令和8年電気学会電力・エネルギー部門大会, 188, Sep. 16-18, 2026.
+</li>
 
 <li>
 <b>MPC-Based Operational Optimization of Smart Cities Considering Real-Time Pricing</b><br>
