@@ -13,7 +13,7 @@ title: "Publication"
 <ol reversed start="35">
 
 <li>
-  <b>Surrogate model-based fast control of wind farms with consideration of voltage stability </b><br>
+  <b>Surrogate model-based fast control of wind farms with consideration of voltage stability</b><br>
   Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Shriram S. Rangarajan, E. Randolph Collins, Tomonobu Senjyu<br>
   Energy Reports, Volume. 16, 109597, 2026.12<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2026.109597" data-style="small_rectangle"></span>
