@@ -233,6 +233,7 @@ Akie Uehara, Masahiro Furukakoi, Akito Nakadomari, Tomonobu Senjyu<br>
 2026 5th International Conference on Power Systems and Electrical Technology (PSET2026), P6416, Osaka, Japan, Aug. 17-21, 2026.
 </li>
 
+<li>
 <b>Operational Optimization of Park-and-Ride EV Charging Stations with Day-Night Multi-Class Minimum Charging Guarantees</b><br>
 Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET 2026), Rome, Italy, Jul. 6-9, 2026, pp. 1-6.<br>
