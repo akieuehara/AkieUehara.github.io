@@ -180,7 +180,7 @@ Renewable Energy, Vol. 36, Issue 1, pp. 42–49, 2011.01<br>
 
 <li><b>離島電力系統における負荷電力推定を用いた蓄電池併設型風力発電システムによる周波数制御法</b><br>
 上原 明恵, 安里 文吾, 與那 篤史, 浦崎 直光, 千住 智信, 舟橋 俊久<br>
-IEEJ Transactions on Electrical and Electronic Engineering, 130, 12, pp. 1039–1048, 2010.12  <br>
+電気学会論文誌B, 130, 12, pp. 1039–1048, 2010.12  <br>
 <span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.130.1039" data-style="small_rectangle"></span></li>
 
 <li><b>Optimal voltage control in distribution systems with coordination of distribution installations</b><br>
@@ -215,7 +215,7 @@ IEEE Transactions on Energy Conversion, Vol. 24, No. 4, pp. 893–904, 2009.09<b
 
 <li><b>風力発電システムにおける風車と蓄電池の協調制御</b><br>
 千住 智信, 菊永 康朗, 徳留 元樹, 上原 明恵, 舟橋 俊久<br>
-IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–660, 2009.05<br>
+電気学会論文誌B, 129, 5, pp. 653–660, 2009.05<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1541/ieejpes.129.653" data-style="small_rectangle"></span></li>
 
 </ol>
