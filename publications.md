@@ -10,7 +10,7 @@ title: "Publication"
 
 ## 学術論文誌 / Journal  
 
-<ol reversed start="33">
+<ol reversed start="35">
 
 <li>
   <b>Surrogate model-based fast control of wind farms with consideration of voltage stability </b><br>
@@ -224,15 +224,30 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 
 ## 国際会議・シンポジウム / International Conferences  
 
-<ol reversed start="40">
+<ol reversed start="42">
 
 
 <li>
-<b>Operational Optimization of Park-and-Ride EV Charging Stations with Day-Night Multi-Class Minimum Charging Guarantees</b><br>
-Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Electrical, Computer and Energy Technologies (ICECET 2026), H10 Roma Città, Rome, Rome, Italy, Jul. 6-9, 2026.
+
+<b>{=html}PV-Integrated MMC-HVDC System Interconnection with A Cascaded Fault Tolerant Dual-Input LLC Resonant DC/DC Converter</b>{=html}<br>{=html}<br>{=html} Lin Myat, Masahiro
+Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>{=html}<br>{=html} 
+International Conference on Energy Systems 2026 (ICES2026), #200, Yildiz Technical University, Istanbul,
+Türkiye, May 3-6, 2026.<br>{=html}
+
 </li>
 
+
+<li>
+<b>A Novel Load Shedding Optimization Method Based on Nodal RoCoF<\b><br>
+Akie Uehara, Masahiro Furukakoi, Akito Nakadomari, Tomonobu Senjyu<br>
+2026 5th International Conference on Power Systems and Electrical Technology (PSET2026), P6416, Osaka, Japan, Aug. 17-21, 2026.
+</li>
+
+<b>Operational Optimization of Park-and-Ride EV Charging Stations with Day-Night Multi-Class Minimum Charging Guarantees</b><br>
+Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
+2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET 2026), Rome, Italy, Jul. 6-9, 2026, pp. 1-6.<br>
+<span class="__dimensions_badge_embed__" data-doi="10.1109/ICECET65726.2026.11632454" data-style="small_rectangle"></span>
+</li>
 
 <li>
 <b>PV-Integrated MMC-HVDC System Interconnection with A Cascased Fault Tolerant Dual-Input LLC Resonant DC/DC Converter</b><br>
