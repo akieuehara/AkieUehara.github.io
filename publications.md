@@ -505,7 +505,6 @@ IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
 </li>
 
 </ol>
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ---
 
@@ -991,4 +990,5 @@ PE-09-18, PSE-09-26, SPC-09-60, pp.103–108, 2009.01
 一般社団法人電気学会, 2017.05, 120ページ（共著）
 </li>
 </ol>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
