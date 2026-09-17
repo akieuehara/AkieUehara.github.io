@@ -13,6 +13,14 @@ title: "Publication"
 <ol reversed start="33">
 
 <li>
+  <b>Surrogate model-based fast control of wind farms with consideration of voltage stability </b><br>
+  Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Shriram S. Rangarajan, E. Randolph Collins, Tomonobu Senjyu<br>
+  Energy Reports, Volume. 16, 109597, 2026.12<br>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2026.109597" data-style="small_rectangle"></span>
+ </li>
+
+
+<li>
   <b>Multi-objective optimal design of integrated electrical and thermal campus energy systems: Simultaneous capacity planning and operation scheduling </b><br>
   Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Mitsunaga Kinjo, Narayanan Krishnan, Ashraf M. Hemeida, Tomonobu Senjyu<br>
   Energy Conversion and Management: X, Volume. 31, 101929, 2026.09<br>
@@ -24,6 +32,12 @@ title: "Publication"
   Jane Chege, Mark Kiptoo, Akie Uehara, Tomonobu Senjyu, M.H. Elkholy<br>
   Journal of Energy Storage, Volume 169, 122640, 2026.08<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2026.122640" data-style="small_rectangle"></span>
+ </li>
+
+ <li>
+  <b>Critical Boundary Index-Based Preventive and Post-Detection Defense Approach against False Data Injection Attacks in Power Systems Energy Resources</b><br>
+  Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Paras Mandal,Mitsunaga Kinjo, Tomonobu Senjyu<br>
+  Journal of Modern Power Systems and Clean Energy, 2026.06<br>
  </li>
 
 
