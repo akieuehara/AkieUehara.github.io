@@ -90,7 +90,7 @@ title: "Publication"
   <b>Indirect Adaptive Polynomial Wavelet-Based Neuro-Fuzzy Controller for STATCOM-Equipped Power Systems</b><br>
   Farman Ullah Jan, Rabiah Badar, Ahmad Sami Al-Shamayleh, Akie Uehara, Tomonobu Senjyu, Adnan Akhunzada<br>
   IEEE Open Journal of Power Electronics, Vol. 6, pp. 1896–1909, 2025.10<br>
-  <span class="__dimensions_badge_embed__" data-doi="10.1109/ACCESS.2025.3612288" data-style="small_rectangle"></span>
+  <span class="__dimensions_badge_embed__" data-doi="10.1109/OJPEL.2025.3628182" data-style="small_rectangle"></span>
   </li>
 
 
@@ -224,7 +224,7 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 
 ## 国際会議・シンポジウム / International Conferences  
 
-<ol reversed start="42">
+<ol reversed start="41">
 
 
 <li>
