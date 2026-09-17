@@ -185,7 +185,7 @@ IEEJ Transactions on Electrical and Electronic Engineering, 130, 12, pp. 1039–
 
 <li><b>Optimal voltage control in distribution systems with coordination of distribution installations</b><br>
 Masato Oshiro, Kenichi Tanaka, Akie Uehara, Tomonobu Senjyu, Yoshitaka Miyazato, Atsushi Yona, Toshihisa Funabashi<br>
-Renewable Energy, Vol. 32, Issue 10, pp. 1125–1134, 2010.12<br>
+International Journal of Electrical Power & Energy Systems, Vol. 32, Issue 10, pp. 1125–1134, 2010.12<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijepes.2010.06.010" data-style="small_rectangle"></span></li>
 
 <li><b>Output power dispatch control for a wind farm in a small power system</b><br>
