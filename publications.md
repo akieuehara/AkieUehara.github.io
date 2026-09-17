@@ -236,7 +236,7 @@ Akie Uehara, Masahiro Furukakoi, Akito Nakadomari, Tomonobu Senjyu<br>
 <li>
 <b>Operational Optimization of Park-and-Ride EV Charging Stations with Day-Night Multi-Class Minimum Charging Guarantees</b><br>
 Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET 2026), Rome, Italy, Jul. 6-9, 2026, pp. 1-6.<br>
+2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET2026), Rome, Italy, Jul. 6-9, 2026, pp. 1-6.<br>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ICECET65726.2026.11632454" data-style="small_rectangle"></span>
 </li>
 
@@ -250,7 +250,7 @@ International Conference on Energy Systems 2026 (ICES-26), #200, Yildiz Technica
 <li>
 <b>Optimal Energy Management and Blackout Resilience for Land-Based Aquaculture Using PV and Battery Energy Storage</b><br>
 Kein Niijima, Soichiro Ueda, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu Senjyu<br>
-2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A75, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET2026), A75, Beirut, Lebanon (Online), Apr. 15-17, 2026.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503777" data-style="small_rectangle"></span>
 </li>
 
@@ -258,7 +258,7 @@ Kein Niijima, Soichiro Ueda, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi,
 <li>
 <b>PV/BESS Interfaced Fault Tolerant Dual-Input LLC Resonant Converter with VSG Inverter for Land-Based Aquaculture System</b><br>
 Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi, Tomonobu Senjyu<br>
-2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A73, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET2026), A73, Beirut, Lebanon (Online), Apr. 15-17, 2026.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503740" data-style="small_rectangle"></span>
 </li>
 
@@ -266,7 +266,7 @@ Lin Myat, Masahiro Furukakoi, Akie Uehara, Hidehito Matayoshi, Hiroshi Takahashi
 <li>
 <b>Optimal Operation of Smart Cities Integrated with Data Centers and Workload Dispatch</b><br>
 Takuma Ishibashi, Akie Uehara, Masahiro Furukakoi, Ahmed Rashwan, Hiroshi Takahashi, Paras Mandal, Tomonobu Senjyu<br>
-2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET), A72, Beirut, Lebanon (Online), Apr. 15-17, 2026.
+2026 IEEE 5th International Multidisciplinary Conference on Engineering Technology (IMCET2026), A72, Beirut, Lebanon (Online), Apr. 15-17, 2026.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/IMCET69180.2026.11503726" data-style="small_rectangle"></span>
 </li>
 
@@ -274,60 +274,60 @@ Takuma Ishibashi, Akie Uehara, Masahiro Furukakoi, Ahmed Rashwan, Hiroshi Takaha
 <li>
 <b>Optimal Sizing and Annual Operation of Stationary Batteries in EV Park-and-Ride Facilities Considering Charge/Discharge Cycles</b><br>
 Soichiro Ueda, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Materials and Systems for Sustainability (ICMaSS) 2025, EP-P-1-19, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
+International Conference on Materials and Systems for Sustainability 2025 (ICMaSS2025), EP-P-1-19, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
 </li>
 
 
 <li>
 <b>Maintaining Dissolved Oxygen and Minimizing Oxygen Input in Land-Based Aquaculture Tanks During Power Outages</b><br>
 Kein Niijima, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Materials and Systems for Sustainability (ICMaSS) 2025, EP-P-1-18, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
+International Conference on Materials and Systems for Sustainability 2025 (ICMaSS2025), EP-P-1-18, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
 </li>
 
 <li>
 <b>Cascaded Connection of Fault Tolerant Dual-Input LLC Resonant DC / DC Converter for HVDC Interconnection</b><br>
 Lin Myat, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Materials and Systems for Sustainability (ICMaSS) 2025, EP-P-1-07, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
+International Conference on Materials and Systems for Sustainability 2025 (ICMaSS2025), EP-P-1-07, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
 </li>
 
 <li>
 <b>Multi-Objective Optimization of Smart City Considering Time-Varying Carbon Emission Factor</b><br>
 Takuma Ishibashi, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Materials and Systems for Sustainability (ICMaSS) 2025, EP-P-1-06, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
+International Conference on Materials and Systems for Sustainability 2025 (ICMaSS2025), EP-P-1-06, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
 </li>
 
 <li>
 <b>A Study on Optimization of Multi-Energy Smart Apartment Operation Considering COP of Heat Pump</b><br>
 Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-International Conference on Materials and Systems for Sustainability (ICMaSS) 2025, EP-P-1-05, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
+International Conference on Materials and Systems for Sustainability 2025 (ICMaSS2025), EP-P-1-05, Nagoya University, Nagoya, Japan, Oct. 29-30, 2025.
 </li>
 
 
 <li>
 <b>Novel Fault Tolerant Dual-Input LLC Resonant DC/DC Converter with Hybrid PWM-PFM Control for HVDC Interconnection</b><br>
 Lin Myat, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Tomonobu Senjyu<br>
-2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM), p.721-726, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
+2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM2025), p.721-726, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ETECOM66111.2025.11318985" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Optimal and Resilient Operation of Small-Scale Land-Based Aquaculture Facilities Using Renewable Energy and V2X Electric Vehicles</b><br>
 Soichiro Ueda, Takuma Ishibashi, Shinya Yamamoto, Kein Niijima, Akie Uehara, Tomonobu Senjyu<br>
-2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM), p.727-731, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
+2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM2025), p.727-731, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ETECOM66111.2025.11319005" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Installed Capacity Optimization in Multi Energy Smart Apartment Building Using Multi Objective Optimization</b><br>
 Shinya Yamamoto, Masahiro Furukakoi, Akie Uehara, Hiroshi Takahashi, Ashraf Hemeida, Edward Randolph Collins, Tomonobu Senjyu<br>
-2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM), p.751-756, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
+2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM2025), p.751-756, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ETECOM66111.2025.11319074" data-style="small_rectangle"></span>
 </li>
 
 <li>
 <b>Operational Optimization for Smart Cities Integrated with Data Centers</b><br>
 Takuka Ishibashi, Akie Uehara, Masahiro Furukakoi, Hiroshi Takahashi, Tomonobu Senjyu<br>
-2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM), p.745-750, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
+2025 IEEE International Conference on Emerging Trends in Engineering and Computing (ETECOM2025), p.745-750, American University of Bahrain(AUBH), Bahrain, Oct. 29-30, 2025.
 <span class="__dimensions_badge_embed__" data-doi="10.1109/ETECOM66111.2025.11319049" data-style="small_rectangle"></span>
 </li>
 
