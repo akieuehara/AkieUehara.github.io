@@ -228,7 +228,7 @@ IEEJ Transactions on Electrical and Electronic Engineering, 129, 5, pp. 653–66
 
 
 <li>
-<b>A Novel Load Shedding Optimization Method Based on Nodal RoCoF<\b><br>
+<b>A Novel Load Shedding Optimization Method Based on Nodal RoCoF</b><br>
 Akie Uehara, Masahiro Furukakoi, Akito Nakadomari, Tomonobu Senjyu<br>
 2026 5th International Conference on Power Systems and Electrical Technology (PSET2026), P6416, Osaka, Japan, Aug. 17-21, 2026.
 </li>
@@ -505,6 +505,7 @@ IEEE T&D Asia Conference and Exposition 2009, PO5-6, 2009.10<br>
 </li>
 
 </ol>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ---
 
