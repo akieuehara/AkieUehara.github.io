@@ -101,7 +101,7 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 ## 受賞 / Award
 
-<ol reversed start="8">
+<ol reversed start="9">
 
 <li>Young Scientist Award, The 5th International Conference on Power Systems and Electrical Technology (PSET2026), 令和8年8月18日受賞</li>
 <li>電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会）</li>
