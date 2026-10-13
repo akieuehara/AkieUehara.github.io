@@ -103,7 +103,8 @@ e-mail:  **uehara_a@cs.u-ryukyu.ac.jp**
 
 <ol reversed start="8">
 
-<li>電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会</li>
+<li>Young Scientist Award, The 5th International Conference on Power Systems and Electrical Technology (PSET2026), 令和8年8月18日受賞</li>
+<li>電気学会第22回優秀技術活動賞 技術報告賞（IEEJ Outstanding Technical Report Award）, 平成31年4月18日受賞（電力系統における蓄電池利用・制御技術調査専門委員会）</li>
 <li>2012 Excellent Student Award of the IEEE Fukuoka Section, 平成25年2月2日受賞</li>
 <li>琉球大学学長賞, 平成23年3月23日受賞</li>
 <li>電気学会優秀論文発表賞, 平成22年9月29日受賞</li>
