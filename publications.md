@@ -19,6 +19,11 @@ title: "Publication"
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.egyr.2026.109597" data-style="small_rectangle"></span>
  </li>
 
+<li>
+  <b>Critical Boundary Index-Based Preventive and Post-Detection Defense Approach against False Data Injection Attacks in Power Systems Energy Resources</b><br>
+  Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Paras Mandal,Mitsunaga Kinjo, Tomonobu Senjyu<br>
+  Journal of Modern Power Systems and Clean Energy, 2026.09<br>
+ </li>
 
 <li>
   <b>Multi-objective optimal design of integrated electrical and thermal campus energy systems: Simultaneous capacity planning and operation scheduling </b><br>
@@ -33,13 +38,6 @@ title: "Publication"
   Journal of Energy Storage, Volume 169, 122640, 2026.08<br>
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.est.2026.122640" data-style="small_rectangle"></span>
  </li>
-
- <li>
-  <b>Critical Boundary Index-Based Preventive and Post-Detection Defense Approach against False Data Injection Attacks in Power Systems Energy Resources</b><br>
-  Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Paras Mandal,Mitsunaga Kinjo, Tomonobu Senjyu<br>
-  Journal of Modern Power Systems and Clean Energy, 2026.06<br>
- </li>
-
 
 <li>
   <b>Distributed reservoir network pumped storage hydropower using dam–pond clusters: Optimal site selection and operation for enhanced renewable energy integration</b><br>
