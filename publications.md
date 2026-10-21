@@ -23,6 +23,7 @@ title: "Publication"
   <b>Critical Boundary Index-Based Preventive and Post-Detection Defense Approach against False Data Injection Attacks in Power Systems Energy Resources</b><br>
   Masahiro Furukakoi, Akito Nakadomari, Akie Uehara, Paras Mandal,Mitsunaga Kinjo, Tomonobu Senjyu<br>
   Journal of Modern Power Systems and Clean Energy, 2026.09<br>
+ <span class="__dimensions_badge_embed__" data-doi="10.35833/MPCE.2025.000962" data-style="small_rectangle"></span>
  </li>
 
 <li>
