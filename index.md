@@ -152,13 +152,13 @@ URL：[KAKEN](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K17368/)
 参画方法：研究代表者  
 事業名：令和7年度 沖縄イノベーション・エコシステム共同研究推進事業委託業務及び同補助金  
 期間：2025年07月 - 2026年02月  
-連携研究者：沖縄電力株式会社  
+受託元：沖縄科学技術振興センター  
 
 - Frequency Control by Coordination Control of Wind Turbine Generator and Battery using Load Estimation in Isolated Island  
 参画方法：研究代表者  
 事業名：財団法人東電記念科学技術研究所（平成21年度国際技術交流援助）  
 期間：2009年11月1日～6日（第8回パワーエレクトロニクス・ドライブシステム国際会議）  
-連携研究者：-
+受託元：財団法人東電記念科学技術研究所
   
 ---
 
